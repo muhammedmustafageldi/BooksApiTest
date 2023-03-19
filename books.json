@@ -1,0 +1,661 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2209,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "CnwXswEACAAJ",
+            "etag": "bHO2xMf5UTU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/CnwXswEACAAJ",
+            "volumeInfo": {
+                "title": "Atesten Gomlek",
+                "subtitle": "Sakarya Ordusuna",
+                "authors": [
+                    "Halide Edib Adıvar"
+                ],
+                "publishedDate": "1968",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9750723325"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750723322"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 166,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkey"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=CnwXswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=CnwXswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=CnwXswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=CnwXswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Atesten_Gomlek.html?hl=&id=CnwXswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=CnwXswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pCWIDAEACAAJ",
+            "etag": "01dDXjXNppE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pCWIDAEACAAJ",
+            "volumeInfo": {
+                "title": "Atesten Gömlek",
+                "subtitle": "Sadelestirilmis Metin",
+                "authors": [
+                    "Halide Edip Adivar"
+                ],
+                "publishedDate": "2016-02-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "975072321X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750723216"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 208,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=pCWIDAEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=pCWIDAEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Atesten_G%C3%B6mlek.html?hl=&id=pCWIDAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pCWIDAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "12PoAwAAQBAJ",
+            "etag": "slmqQTIP7E8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/12PoAwAAQBAJ",
+            "volumeInfo": {
+                "title": "Ateşten Gömlek",
+                "subtitle": "Selim İleri'nin Sonsözüyle",
+                "authors": [
+                    "Halide Edib Adıvar"
+                ],
+                "publisher": "Can Yayınları",
+                "publishedDate": "2014-06-27",
+                "description": "Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt. Kurtuluş Savaşı’nın ateşten gömleğinin içinden çıkmış bir roman. Halide Edib Adıvar, her birini yakından tanıdığı roman kişilerini, yani silah arkadaşlarını içtenlikle, çağına ve yaşanan acı olaylara sorumlulukla tanıklık ederek anlatıyor. Bağımsızlık savaşımızı bütün gerçekliği ve canlılığıyla anlatan belki de en önemli roman, Ateşten Gömlek. İhtilal ve isyan günlerinden beri koza, kurt, kelebek devirleri tetkik edilen mahlûkat gibi Sakarya silâh arkadaşlarımın \"Ateşten Gömlek\"te birkaç solgun aksini İstanbul, ihtilal ve ordu günlerinden alıp kâğıt üstüne koymaya çalıştım. İstediğim gibi olmadığı için silâh arkadaşlarımdan af dilemek isterdim. Bize onlar ilham ettiler.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750720048"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9750720040"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 256,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.1.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=12PoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=12PoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=12PoAwAAQBAJ&printsec=frontcover&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=12PoAwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=12PoAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 26.55,
+                    "currencyCode": "TRY"
+                },
+                "retailPrice": {
+                    "amount": 18.05,
+                    "currencyCode": "TRY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=12PoAwAAQBAJ&rdid=book-12PoAwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 26550000,
+                            "currencyCode": "TRY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 18050000,
+                            "currencyCode": "TRY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Ate%C5%9Ften_G%C3%B6mlek-sample-epub.acsm?id=12PoAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=12PoAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "5WgFaSyEcuIC",
+            "etag": "eDuJGYPuIMo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/5WgFaSyEcuIC",
+            "volumeInfo": {
+                "title": "Ateşten gömlek",
+                "authors": [
+                    "Halide Edib Adıvar"
+                ],
+                "publishedDate": "1937",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015023967527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 204,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkey"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=5WgFaSyEcuIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=5WgFaSyEcuIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=5WgFaSyEcuIC&q=Ate%C5%9Ften+G%C3%B6mlek&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=5WgFaSyEcuIC&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=5WgFaSyEcuIC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=5WgFaSyEcuIC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "fy9kAAAAMAAJ",
+            "etag": "PRHmvbxKwss",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/fy9kAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Sevda ateşten gömlek",
+                "authors": [
+                    "Nâzım Hikmet"
+                ],
+                "publishedDate": "1987",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015040780820"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 204,
+                "printType": "BOOK",
+                "categories": [
+                    "Poets, Turkish"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=fy9kAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=fy9kAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=fy9kAAAAMAAJ&q=Ate%C5%9Ften+G%C3%B6mlek&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=fy9kAAAAMAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sevda_ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=fy9kAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=fy9kAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "RDpRvgEACAAJ",
+            "etag": "xPy4+vPbiNQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/RDpRvgEACAAJ",
+            "volumeInfo": {
+                "title": "Ateşten gömlek",
+                "subtitle": "roman",
+                "authors": [
+                    "Halide Edib Adıvar"
+                ],
+                "publishedDate": "2011",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9750707753"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750707759"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 223,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=RDpRvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=RDpRvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=RDpRvgEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=RDpRvgEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=RDpRvgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=RDpRvgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "zVYoQQAACAAJ",
+            "etag": "+fIw9nQO8XU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zVYoQQAACAAJ",
+            "volumeInfo": {
+                "title": "Ateşten gömlek",
+                "authors": [
+                    "Halide Edib Adıvar"
+                ],
+                "publishedDate": "1920",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OCLC:283686406"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 274,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=zVYoQQAACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=zVYoQQAACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=zVYoQQAACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zVYoQQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "TEMrAAAAMAAJ",
+            "etag": "3VUP6Lk8ciE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/TEMrAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Atesten gömlek",
+                "subtitle": "Sakarya ordusuna",
+                "authors": [
+                    "Halide Edib Adıvar"
+                ],
+                "publishedDate": "1969",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015058645527"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 182,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkey"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.7.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=TEMrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=TEMrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=TEMrAAAAMAAJ&q=Ate%C5%9Ften+G%C3%B6mlek&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=TEMrAAAAMAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Atesten_g%C3%B6mlek.html?hl=&id=TEMrAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=TEMrAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "1wPBswEACAAJ",
+            "etag": "DvkrxLk+0AU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/1wPBswEACAAJ",
+            "volumeInfo": {
+                "title": "Ateşten Gömlek",
+                "authors": [
+                    "Halide Edip Adıvar"
+                ],
+                "publishedDate": "2003",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OCLC:984440707"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 160,
+                "printType": "BOOK",
+                "categories": [
+                    "Türk Romanı 20. yüzyıl"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=1wPBswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=1wPBswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_G%C3%B6mlek.html?hl=&id=1wPBswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=1wPBswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "YefGngEACAAJ",
+            "etag": "TFCW9bLUebA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/YefGngEACAAJ",
+            "volumeInfo": {
+                "title": "Ateşten gömlek",
+                "authors": [
+                    "Halide Edib Adivar"
+                ],
+                "publishedDate": "1978",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OCLC:164707762"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 160,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=YefGngEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=YefGngEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=YefGngEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=YefGngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}
