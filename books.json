@@ -1,45 +1,37 @@
 {
     "kind": "books#volumes",
-    "totalItems": 1076,
+    "totalItems": 3483,
     "items": [
         {
             "kind": "books#volume",
-            "id": "U84PtAEACAAJ",
-            "etag": "aP2xXCvh4I0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/U84PtAEACAAJ",
+            "id": "u2VDnQEACAAJ",
+            "etag": "eKp0wEbOMxs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/u2VDnQEACAAJ",
             "volumeInfo": {
-                "title": "George Orwell Arkadasimdi",
+                "title": "Karadenizin kıyıcığında",
                 "authors": [
-                    "Adam Johnson"
+                    "Rıfat İlgaz"
                 ],
-                "publishedDate": "2018",
+                "publishedDate": "1989",
                 "industryIdentifiers": [
                     {
-                        "type": "ISBN_10",
-                        "identifier": "605678942X"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9786056789427"
+                        "type": "OTHER",
+                        "identifier": "OCLC:165608684"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 260,
+                "pageCount": 357,
                 "printType": "BOOK",
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=U84PtAEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=U84PtAEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell_Arkadasimdi.html?hl=&id=U84PtAEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=u2VDnQEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -58,59 +50,48 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=U84PtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=u2VDnQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
-            "id": "zXncAAAAQBAJ",
-            "etag": "U8xjV1KPfh4",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/zXncAAAAQBAJ",
+            "id": "ScLimgEACAAJ",
+            "etag": "OVAVKFRwB0w",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ScLimgEACAAJ",
             "volumeInfo": {
-                "title": "George Orwell",
-                "subtitle": "English Rebel",
+                "title": "Karadenizin kıyıcığında",
+                "subtitle": "Roman",
                 "authors": [
-                    "Robert Colls"
+                    "Rıfat Ilgaz"
                 ],
-                "publisher": "Oxford University Press",
-                "publishedDate": "2013-10",
-                "description": "An intellectual who did not like intellectuals, a socialist who did not trust the state, a liberal who was against free markets, a Protestant who believed in religion but not in God, a fierce opponent of nationalism who defined Englishness for a generation. Aside from being one of the greatest political essayists in the English language and author of two of the most famous books in twentieth century literature, George Orwell was a man of profound contradictions. George Orwell:English Rebel takes us through the many twists and turns of Orwell's life and thought, from precocious, public school satirist at Eton and imperial policeman in Burma, through his early years as a rather dour documentary writer, and his formative experiences as a volunteer soldier in the Spanish Civil War. Robert Colls traces, in particular, Orwell's complex relationship with his country, from the alienated intellectual of the mid-1930s through a gradual reconciliation, to the exhilarating peaks of his wartime writing. He explores the mistakes and contradictions, the lucky escapes and near misses, and what they tell us about Orwell as man and author.",
+                "publishedDate": "2011",
                 "industryIdentifiers": [
                     {
-                        "type": "ISBN_13",
-                        "identifier": "9780199680801"
+                        "type": "ISBN_10",
+                        "identifier": "6053602108"
                     },
                     {
-                        "type": "ISBN_10",
-                        "identifier": "0199680809"
+                        "type": "ISBN_13",
+                        "identifier": "9786053602101"
                     }
                 ],
                 "readingModes": {
                     "text": false,
-                    "image": true
+                    "image": false
                 },
-                "pageCount": 359,
                 "printType": "BOOK",
                 "categories": [
-                    "Biography & Autobiography"
+                    "Turkish fiction"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "2.3.2.0.preview.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=zXncAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=zXncAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=zXncAAAAQBAJ&printsec=frontcover&dq=George+Orwell&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=zXncAAAAQBAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=zXncAAAAQBAJ"
+                "contentVersion": "preview-1.0.0",
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=ScLimgEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=ScLimgEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=ScLimgEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -119,96 +100,92 @@
             },
             "accessInfo": {
                 "country": "TR",
-                "viewability": "PARTIAL",
-                "embeddable": true,
+                "viewability": "NO_PAGES",
+                "embeddable": false,
                 "publicDomain": false,
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": false
                 },
                 "pdf": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/George_Orwell-sample-pdf.acsm?id=zXncAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=zXncAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
+                "webReaderLink": "http://play.google.com/books/reader?id=ScLimgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "A journey through the life and thought of George Orwell, from public school satirist and imperial policeman to Animal Farm and Nineteen Eighty Four."
             }
         },
         {
             "kind": "books#volume",
-            "id": "zyMluFEwA7AC",
-            "etag": "oSp6pcK4G6c",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/zyMluFEwA7AC",
+            "id": "uSJ_BwAAQBAJ",
+            "etag": "8gRYmVP0ySg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/uSJ_BwAAQBAJ",
             "volumeInfo": {
-                "title": "The Complete Novels of George Orwell",
-                "subtitle": "Animal Farm, Burmese Days, A Clergyman's Daughter, Coming Up for Air, Keep the Aspidistra Flying, Nineteen Eighty-Four",
+                "title": "Rıfat Ilgaz",
+                "subtitle": "Yaşamı, Kişiliği, Şairliği, Hikayeciliği, Romancılığı, Oyunları, Anıları, Köşe Yazarlığı",
                 "authors": [
-                    "George Orwell"
+                    "Asım Bezirci"
                 ],
-                "publisher": "Penguin UK",
-                "publishedDate": "2001-02-22",
-                "description": "'The greatest writer of the twentieth century' Observer George Orwell's best-known novels, Animal Farm, describing a revolution that goes horribly wrong, and Nineteen Eighty-Four, portraying a world where human freedom has been crushed, are two of the most famous, well-quoted and influential political satires ever written. The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban living in Coming Up for Air and surviving on the streets in A Clergyman's Daughter. All the novels brought together here display Orwell's humour, his understanding of human nature and his great compassion.",
+                "publisher": "Evrensel Basım Yayın",
+                "publishedDate": "2014-01-01",
+                "description": "Asım Bezirci'nin titiz ve sabırlı çalışmalarının bir ürünü olan elinizdeki kitap iki ana bölümden oluşuyor; \"tanıtmalar\" bölümünde Rıfat Ilgaz'ın yaşamı, şairliği, hikâyeciliği, romancılığı ile oyun, anı, fıkra yazarlığı ayrıntılarıyla sergileniyor. Söz konusu türlerde çıkmış eserlerinin çoğu tanıtılıp değerlendiriliyor. Bunun için üç boyutlu ilginç bir yöntem izleniyor; Rıfat Ilgaz'ın açıklamaları ve Asım Bezirci'nin değerlendirmeleri ile çeşitli yazarların çözümleme ve eleştirilerinden birbirini tamamlayan, geliştiren parçalar aktarılıyor. Böylece eserlerin değişik açılardan aydınlanması, yargılanması sağlanmış oluyor. \"Seçmeler\" bölümünde ise, Rıfat Ilgaz'ın en güzel şiirleri ile hikâyeleri ve köşe yazılarından seçilmiş bir demet sunuluyor. Kitabın sonunda ise zengin bir \"kaynakça\" veriliyor. Rıfat Ilgaz'ı sanatsal evrimi ve toplumsal çevresi içinde derinden incelemek, sıcak bir yaklaşımla renkli kişiliğini yakından tanımak ve seçkin ürünlerini zevkle okumak isteyenler için özgün bir \"monogra?\", belgesel bir \"kaynak\", bir başvuru kitabı\"… Ayrıca Asım Bezirci, Rıfat Ilgaz incelemesiyle 1989 Ferit Oğuz Bayır Kültür ve Sanat Ödülü'nü kazanmıştır.",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_13",
-                        "identifier": "9780141911656"
+                        "identifier": "9786054834686"
                     },
                     {
                         "type": "ISBN_10",
-                        "identifier": "0141911654"
+                        "identifier": "6054834681"
                     }
                 ],
                 "readingModes": {
                     "text": true,
-                    "image": false
+                    "image": true
                 },
-                "pageCount": 1514,
+                "pageCount": 264,
                 "printType": "BOOK",
                 "categories": [
-                    "Fiction"
+                    "Biography & Autobiography"
                 ],
                 "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "2.20.17.0.preview.2",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.2.0.preview.3",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=zyMluFEwA7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=zyMluFEwA7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=uSJ_BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=uSJ_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=zyMluFEwA7AC&printsec=frontcover&dq=George+Orwell&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=zyMluFEwA7AC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zyMluFEwA7AC"
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=uSJ_BwAAQBAJ&pg=PT137&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ"
             },
             "saleInfo": {
                 "country": "TR",
                 "saleability": "FOR_SALE",
                 "isEbook": true,
                 "listPrice": {
-                    "amount": 670.41,
+                    "amount": 25,
                     "currencyCode": "TRY"
                 },
                 "retailPrice": {
-                    "amount": 670.41,
+                    "amount": 25,
                     "currencyCode": "TRY"
                 },
-                "buyLink": "https://play.google.com/store/books/details?id=zyMluFEwA7AC&rdid=book-zyMluFEwA7AC&rdot=1&source=gbs_api",
+                "buyLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ&rdid=book-uSJ_BwAAQBAJ&rdot=1&source=gbs_api",
                 "offers": [
                     {
                         "finskyOfferType": 1,
                         "listPrice": {
-                            "amountInMicros": 670410000,
+                            "amountInMicros": 25000000,
                             "currencyCode": "TRY"
                         },
                         "retailPrice": {
-                            "amountInMicros": 670410000,
+                            "amountInMicros": 25000000,
                             "currencyCode": "TRY"
                         }
                     }
@@ -222,134 +199,59 @@
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/The_Complete_Novels_of_George_Orwell-sample-epub.acsm?id=zyMluFEwA7AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com.tr/books/download/R%C4%B1fat_Ilgaz-sample-epub.acsm?id=uSJ_BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
                 "pdf": {
-                    "isAvailable": false
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/R%C4%B1fat_Ilgaz-sample-pdf.acsm?id=uSJ_BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=zyMluFEwA7AC&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=uSJ_BwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban ..."
+                "textSnippet": "(<b>Rıfat Ilgaz</b>/Cumhuriyet, 26.8.1981) “1969&#39;un sessizlikle karşılanan değerli kitaplarından biri <b>Rıfat Ilgaz</b>&#39;ın eseri: <b>Karadeniz&#39;in Kıyıcığında</b>. Hakkında hiçbir eleştiri ve tanıtma yazısı çıkmadı; edebiyatçıların yakındıkları,&nbsp;..."
             }
         },
         {
             "kind": "books#volume",
-            "id": "PqGMFPCiBEsC",
-            "etag": "gL4oNgypxWM",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/PqGMFPCiBEsC",
+            "id": "NzO7AAAAIAAJ",
+            "etag": "yt9AeyZnucw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/NzO7AAAAIAAJ",
             "volumeInfo": {
-                "title": "Essays",
-                "authors": [
-                    "George Orwell"
-                ],
-                "publisher": "Penguin UK",
-                "publishedDate": "2000-06-29",
-                "description": "These essays, reviews and articles illuminate the life and work of one of the most individual writers of this century - a man who created a unique literary manner from the process of thinking aloud and who elevated political writing to an art.",
+                "title": "Rıfat Ilgaz Sempozyumu",
+                "subtitle": "10-12 Mayıs 2006, Kastamonu",
+                "publishedDate": "2007",
                 "industryIdentifiers": [
                     {
-                        "type": "ISBN_13",
-                        "identifier": "9780141183060"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "0141183063"
+                        "type": "OTHER",
+                        "identifier": "STANFORD:36105128817611"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 601,
+                "pageCount": 908,
                 "printType": "BOOK",
                 "categories": [
-                    "Fiction"
+                    "Authors, Turkish"
                 ],
-                "averageRating": 4,
-                "ratingsCount": 3,
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "1.4.4.0.preview.0",
+                "contentVersion": "1.4.2.0.preview.0",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=PqGMFPCiBEsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=PqGMFPCiBEsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=PqGMFPCiBEsC&dq=George+Orwell&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=PqGMFPCiBEsC&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Essays.html?hl=&id=PqGMFPCiBEsC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": true
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=PqGMFPCiBEsC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "These essays, reviews and articles illuminate the life and work of one of the most individual writers of this century - a man who created a unique literary manner from the process of thinking aloud and who elevated political writing to an ..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "y-8DoQEACAAJ",
-            "etag": "Ej8xe047jys",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/y-8DoQEACAAJ",
-            "volumeInfo": {
-                "title": "1984",
-                "authors": [
-                    "George Orwell"
-                ],
-                "publishedDate": "2014-03-01",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "9750718534"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9789750718533"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 352,
-                "printType": "BOOK",
-                "averageRating": 5,
-                "ratingsCount": 1,
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=y-8DoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=y-8DoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=NzO7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=NzO7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=y-8DoQEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=y-8DoQEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=y-8DoQEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/R%C4%B1fat_Ilgaz_Sempozyumu.html?hl=&id=NzO7AAAAIAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -368,56 +270,52 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=y-8DoQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=NzO7AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Rifat Ilgaz</b> ve Halk Tiyatrosu Metin Boran1 Sanat ve edebiyat alanında onlarca yapıt üreterek bir dönemin toplumsal ve kültürel koşullarına tanıklığını ... Ardından yine bir romandan uyarlama olan <b>Karadenizin Kıyıcığında</b> gelir ."
             }
         },
         {
             "kind": "books#volume",
-            "id": "Ij49NQAACAAJ",
-            "etag": "F8uiuXuHSs8",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ij49NQAACAAJ",
+            "id": "1ksuAAAAMAAJ",
+            "etag": "PVLRFezm8dY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/1ksuAAAAMAAJ",
             "volumeInfo": {
-                "title": "George Orwell",
+                "title": "Sarıyazma",
                 "authors": [
-                    "Gordon Bowker"
+                    "Rıfat Ilgaz"
                 ],
-                "publisher": "Little Brown Uk",
-                "publishedDate": "2004",
-                "description": "Traces the acclaimed writer's childhood, Eton education, experiences as a Burma policeman, deliberate entry into poverty, witness to the Spanish Civil War, complex relationships, and contributions to literature.",
+                "publishedDate": "1976",
                 "industryIdentifiers": [
                     {
-                        "type": "ISBN_10",
-                        "identifier": "0349115516"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9780349115511"
+                        "type": "OTHER",
+                        "identifier": "UOM:39015003647560"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 495,
+                "pageCount": 422,
                 "printType": "BOOK",
-                "categories": [
-                    "Biography & Autobiography"
-                ],
-                "averageRating": 3.5,
-                "ratingsCount": 2,
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=Ij49NQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=Ij49NQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                "contentVersion": "1.4.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
                 },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=Ij49NQAACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=Ij49NQAACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=Ij49NQAACAAJ"
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=1ksuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=1ksuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=1ksuAAAAMAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=1ksuAAAAMAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Sar%C4%B1yazma.html?hl=&id=1ksuAAAAMAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -436,45 +334,266 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=Ij49NQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=1ksuAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "&#39;Adds enormously to our understanding of the man&#39; Evening Standard George Orwell was one of the greatest writers England produced in the last century."
             }
         },
         {
             "kind": "books#volume",
-            "id": "UYmMEAAAQBAJ",
-            "etag": "8lMJ+sIfkCs",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/UYmMEAAAQBAJ",
+            "id": "niJkAAAAMAAJ",
+            "etag": "Skf/SAPymKU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/niJkAAAAMAAJ",
             "volumeInfo": {
-                "title": "Modern Classics the Complete Novels of George Orwell",
+                "title": "Rıfat Ilgaz",
+                "subtitle": "yaşamı, kişiliği, şairliği, hikâyeciliği, romancılığı, oyun ve fıkra yazarlığı ile eserlerinden seçmeler",
                 "authors": [
-                    "George Orwell"
+                    "Rıfat Ilgaz",
+                    "Asım Bezirci"
                 ],
-                "publisher": "National Geographic Books",
-                "publishedDate": "2009-07-28",
-                "description": "George Orwell's best-known novels, Animal Farm, describing a revolution that goes horribly wrong, and Nineteen Eighty-Four, portraying a world where human freedom has been crushed, are two of the most famous, well-quoted and influential political satires ever written. The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban living in Coming Up for Air and surviving on the streets in A Clergyman's Daughter. All the novels brought together here display Orwell's humour, his understanding of human nature and his great compassion.",
+                "publishedDate": "1988",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015042023815"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 284,
+                "printType": "BOOK",
+                "categories": [
+                    "Authors, Turkish"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=niJkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=niJkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=niJkAAAAMAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=niJkAAAAMAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/R%C4%B1fat_Ilgaz.html?hl=&id=niJkAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=niJkAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Çocukluğunun <b>Karadeniz</b>&#39;ini ve insanlarını bulamayınca , tüm bağlarını kopardığını ilan etmişti . <b>Karadeniz</b>&#39;i ve insanlarını <b>Karadeniz Kıyıcığında</b> ile başlattığı bir dizi romanla <b>Rıfat Ilgaz</b> anlatmaya başladı . ( ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "aSB_BwAAQBAJ",
+            "etag": "TTIHosn+wG8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/aSB_BwAAQBAJ",
+            "volumeInfo": {
+                "title": "Seçme Romanlar",
+                "subtitle": "Yazarları, Eserleri, Roman Özetleri, Eleştiriler, Kaynaklar",
+                "authors": [
+                    "Asım Bezirci"
+                ],
+                "publisher": "Evrensel Basım Yayın",
+                "publishedDate": "2014-01-01",
+                "description": "\"Seçme Romanlar\", Namık Kemal'in İntibah'ı ile başlayıp Latife Tekin'in \"Sevgili Arsız Ölüm\"ü ile sona eriyor. Böylece, Tanzimat'tan günümüze romancılığımızın belirli bir ölçüde hem evrim çizgisi gösterilmiş, hem de en güzel / en önemli ürünleri tanıtılmış oluyor. Bütün bu özellikleriyle \"Seçme Romanlar\", yalnızca öğrencilerle roman sever okurlar için değil, öğretmenler, yazarlar ve incelemeciler için de yararlı bir kaynak ve güvenilir bir kılavuz kitaptır.",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_13",
-                        "identifier": "9780141190396"
+                        "identifier": "9786053312123"
                     },
                     {
                         "type": "ISBN_10",
-                        "identifier": "0141190396"
+                        "identifier": "6053312126"
                     }
                 ],
                 "readingModes": {
                     "text": true,
-                    "image": false
+                    "image": true
                 },
-                "pageCount": 0,
+                "pageCount": 490,
                 "printType": "BOOK",
                 "categories": [
-                    "Fiction"
+                    "Reference"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=aSB_BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=aSB_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=aSB_BwAAQBAJ&pg=PT185&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=aSB_BwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aSB_BwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 25,
+                    "currencyCode": "TRY"
+                },
+                "retailPrice": {
+                    "amount": 25,
+                    "currencyCode": "TRY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=aSB_BwAAQBAJ&rdid=book-aSB_BwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 25000000,
+                            "currencyCode": "TRY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 25000000,
+                            "currencyCode": "TRY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Se%C3%A7me_Romanlar-sample-epub.acsm?id=aSB_BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Se%C3%A7me_Romanlar-sample-pdf.acsm?id=aSB_BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=aSB_BwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "(<b>Rıfat Ilgaz</b>) “1969&#39;un sessizlikle karşılanan değerli kitaplarından biri <b>Rıfat Ilgaz</b>&#39;ın eseri: <b>Karadeniz Kıyıcığında</b>. Hakkında hiçbir eleştiri ve tanıtma yazısı çıkmadı; edebiyatçıların yakındıkları, edebiyatçıların tanıdıkları sessiz&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "0OxHAAAAMAAJ",
+            "etag": "pAlxoCo1mEc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0OxHAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Karadenizin kıyıcığında",
+                "subtitle": "roman",
+                "authors": [
+                    "Rıfat Ilgaz"
+                ],
+                "publishedDate": "1969",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015065828611"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 362,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkish fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=0OxHAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=0OxHAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "roman <b>Rıfat Ilgaz</b>. <b>Karadenizin Kıyıcığında</b> Roman CEM YAYINEVİ ! PL 248 I 2&#39;1 КЗ Dizgi ve Baskı : <b>RIFAT ILGAZ</b>."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "_KFyDwAAQBAJ",
+            "etag": "7tdHYQ4mTn0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_KFyDwAAQBAJ",
+            "volumeInfo": {
+                "title": "İNSANCIL DERGİSİ AĞUSTOS-2017 SAYISI",
+                "authors": [
+                    "KOLLEKTİF"
+                ],
+                "publisher": "İNSANCIL YAYINLARI",
+                "publishedDate": "2017-08-01",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 64,
+                "printType": "BOOK",
+                "categories": [
+                    "Philosophy"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
@@ -484,241 +603,157 @@
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=UYmMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=UYmMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=_KFyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_KFyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=UYmMEAAAQBAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=UYmMEAAAQBAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Classics_the_Complete_Novels_of_G.html?hl=&id=UYmMEAAAQBAJ"
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=_KFyDwAAQBAJ&pg=PA27&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ"
             },
             "saleInfo": {
                 "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 17.7,
+                    "currencyCode": "TRY"
+                },
+                "retailPrice": {
+                    "amount": 17.7,
+                    "currencyCode": "TRY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ&rdid=book-_KFyDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 17700000,
+                            "currencyCode": "TRY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 17700000,
+                            "currencyCode": "TRY"
+                        }
+                    }
+                ]
             },
             "accessInfo": {
                 "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
+                "viewability": "PARTIAL",
+                "embeddable": true,
                 "publicDomain": false,
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": false
                 },
                 "pdf": {
-                    "isAvailable": false
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/%C4%B0NSANCIL_DERG%C4%B0S%C4%B0_A%C4%9EUSTOS_2017_SAYISI-sample-pdf.acsm?id=_KFyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=UYmMEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
+                "webReaderLink": "http://play.google.com/books/reader?id=_KFyDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban ..."
+                "textSnippet": "Yıldız Karayel -Rıfat Ilgaz . Karartma Geceleri- <b>Rıfat Ilgaz</b> . <b>Karadenizin Kıyıcığında</b>-Rıfat Ilgaz . Huzur-Ahmet Hamdi Tanpınar . Saatleri Ayarlama Enstitüsü- Ahmet Hamdi Tanpınar Bugünün Saraylısı-Refik Halid Karay Hanımın Çiftliği&nbsp;..."
             }
         },
         {
             "kind": "books#volume",
-            "id": "zaxG_3ivhVAC",
-            "etag": "5VH+ZJ/sEQU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/zaxG_3ivhVAC",
+            "id": "0ZHZBQAAQBAJ",
+            "etag": "PnFmPpWgNlU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0ZHZBQAAQBAJ",
             "volumeInfo": {
-                "title": "George Orwell: In front of your nose, 1946-1950",
+                "title": "Alfabetik Sıralı Eser-Sanatçı-Tür Sanatçı-Eser-Tür Sözlüğü",
+                "subtitle": "Alfabetik Sıralı Eser-Sanatçı-Tür Sanatçı-Eser-Tür Cep Sözlüğü",
                 "authors": [
-                    "George Orwell"
+                    "Serhat MENTEŞE",
+                    "İsmail SABANCI",
+                    "Coşkun AYVAZOĞLU",
+                    "Zeliha ÖZCAN"
                 ],
-                "publisher": "David R. Godine Publisher",
-                "publishedDate": "2000",
-                "description": "George Orwell is a major figure in twentieth-century literature. The author of Down and Out in Paris and London, Nineteen Eighty-four, and Animal Farm, he published ten books and two collections of essays during his lifetime -- but in terms of actual words, produced much more than seems possible for someone who died at the age of forty-six and was often struggling against poverty and ill health. His essays, letters, and journalism are among the most memorable, lucid, and intelligent ever written, the work of a master craftsman and a brilliant mind. Taken as a whole they form an essential collection, and read in toto and sequentially, they provide a remarkably literary self-portrait of an engaged, and consistently engaging, writer.",
+                "publisher": "Mısra Yayıncılık",
+                "description": "YGS,LYS ve KPSS'ye yardımcı. Eser-Sanatçı eşleştirmesi, Eser-Tür eşleştirmesi, Eser-Sanatçı-Tür tasnifi, Sanatçı-Eser-Tür eşleştirmesi.",
                 "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "1567921361"
-                    },
                     {
                         "type": "ISBN_13",
-                        "identifier": "9781567921366"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 578,
-                "printType": "BOOK",
-                "categories": [
-                    "Biography & Autobiography"
-                ],
-                "averageRating": 5,
-                "ratingsCount": 2,
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "3.2.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=zaxG_3ivhVAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=zaxG_3ivhVAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=zaxG_3ivhVAC&dq=George+Orwell&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=zaxG_3ivhVAC&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell_In_front_of_your_nose_1946.html?hl=&id=zaxG_3ivhVAC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": true
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=zaxG_3ivhVAC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "His essays, letters, and journalism are among the most memorable, lucid, and intelligent ever written, the work of a master craftsman and a brilliant mind."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "WjAeAQAAIAAJ",
-            "etag": "KMuswg5MH2Q",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/WjAeAQAAIAAJ",
-            "volumeInfo": {
-                "title": "George Orwell",
-                "authors": [
-                    "Courtney T. Wemyss",
-                    "Alexej Ugrinsky"
-                ],
-                "publisher": "Praeger",
-                "publishedDate": "1987",
-                "description": "This collection of essays addresses a number of facets of George Orwell, examining both Orwell the man of letters and Orwell the political man. In his preface, Courtney Wemyss asserts that Orwell may not receive the recognition he is due because at present he is appreciated for the wrong reasons. The author of other fine novels (such as Burmese Days and Coming up for Air), Orwell should also be recognized for his literary criticism, book reviews, and documentaries, which depict the England of his times in the manner of Samuel Pepys. The Less-recognized--and equally important--facets of George Orwell's works and impact on English culture presented in this collection will prove informative to Orwell specialists and to scholars of twentieth-century English literature and politics.",
-                "industryIdentifiers": [
+                        "identifier": "9786054152261"
+                    },
                     {
-                        "type": "OTHER",
-                        "identifier": "STANFORD:36105038371907"
+                        "type": "ISBN_10",
+                        "identifier": "6054152262"
                     }
                 ],
                 "readingModes": {
-                    "text": false,
-                    "image": false
+                    "text": true,
+                    "image": true
                 },
                 "pageCount": 224,
                 "printType": "BOOK",
                 "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "1.3.2.0.preview.0",
+                "allowAnonLogging": true,
+                "contentVersion": "1.1.1.0.preview.3",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=WjAeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=WjAeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=0ZHZBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0ZHZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=WjAeAQAAIAAJ&q=George+Orwell&dq=George+Orwell&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=WjAeAQAAIAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=WjAeAQAAIAAJ"
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=0ZHZBQAAQBAJ&pg=PT24&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ"
             },
             "saleInfo": {
                 "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 4.6,
+                    "currencyCode": "TRY"
                 },
-                "pdf": {
-                    "isAvailable": false
+                "retailPrice": {
+                    "amount": 4.6,
+                    "currencyCode": "TRY"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=WjAeAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "This collection of essays addresses a number of facets of George Orwell, examining both Orwell the man of letters and Orwell the political man."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "SEzFsgEACAAJ",
-            "etag": "o9nNdCNjGnI",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/SEzFsgEACAAJ",
-            "volumeInfo": {
-                "title": "George Orwell",
-                "authors": [
-                    "Stéphane Maltère"
-                ],
-                "publisher": "Editions Gallimard",
-                "publishedDate": "2015-06-05",
-                "description": "«A une époque de supercherie universelle, dire la vérité est un acte révolutionnaire.» George Orwell (1903 -1950), de son vrai nom Eric Arthur Blair, est l'auteur d'une oeuvre très marquée par ses engagements politiques. Après avoir lutté contre l'Empire britannique en Birmanie, pour la justice sociale aux côtés des classes laborieuses de Londres et de Paris, puis participé à la guerre d'Espagne dans les rangs du P O U M, il se consacre à une oeuvre littéraire écrite, «directement ou indirectement, contre le totalitarisme et pour le socialisme démocratique». Témoin lucide de son temps, auteur notamment de La Ferme des animaux et de 1984, il meurt à quarante-six ans, et demande dans son testament qu'aucune biographie ne retrace sa vie.",
-                "industryIdentifiers": [
+                "buyLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ&rdid=book-0ZHZBQAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
                     {
-                        "type": "ISBN_10",
-                        "identifier": "2070455386"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9782070455386"
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 4600000,
+                            "currencyCode": "TRY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 4600000,
+                            "currencyCode": "TRY"
+                        }
                     }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 329,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "language": "fr",
-                "previewLink": "http://books.google.com.tr/books?id=SEzFsgEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=SEzFsgEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=SEzFsgEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                ]
             },
             "accessInfo": {
                 "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
+                "viewability": "PARTIAL",
+                "embeddable": true,
                 "publicDomain": false,
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
-                    "isAvailable": false
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Alfabetik_S%C4%B1ral%C4%B1_Eser_Sanat%C3%A7%C4%B1_T%C3%BCr_S-sample-epub.acsm?id=0ZHZBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
                 "pdf": {
-                    "isAvailable": false
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Alfabetik_S%C4%B1ral%C4%B1_Eser_Sanat%C3%A7%C4%B1_T%C3%BCr_S-sample-pdf.acsm?id=0ZHZBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=SEzFsgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
+                "webReaderLink": "http://play.google.com/books/reader?id=0ZHZBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Cette biographie de l&#39;écrivain britannique s&#39;attache à mettre en avant ses engagements politiques, de sa lutte contre l&#39;empire britannique en Birmanie à sa participation à la guerre d&#39;Espagne, en passant par la défense des classes ..."
+                "textSnippet": "Kadınlar Arasında: Oktay Rıfat&#39;ın oyunudur. Kadınlar Kataloğu: Heseidos&#39;un şiiridir. Kadınlar Mektebi: Moliere&#39;nin komedi tarzındaki ... <b>Karadeniz&#39;in Kıyıcığında</b>: <b>Rıfat Ilgaz</b>&#39;ın romanıdır. Karadut: Bedri Rahmi Eyüpoğlu&#39;nun bir şiiridir."
             }
         }
     ]
