@@ -1,38 +1,34 @@
 {
     "kind": "books#volumes",
-    "totalItems": 2209,
+    "totalItems": 814,
     "items": [
         {
             "kind": "books#volume",
-            "id": "CnwXswEACAAJ",
-            "etag": "bHO2xMf5UTU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/CnwXswEACAAJ",
+            "id": "j2MtzwEACAAJ",
+            "etag": "cRdJRAkDG2I",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/j2MtzwEACAAJ",
             "volumeInfo": {
-                "title": "Atesten Gomlek",
-                "subtitle": "Sakarya Ordusuna",
+                "title": "1984",
                 "authors": [
-                    "Halide Edib Adıvar"
+                    "George Orwell"
                 ],
-                "publishedDate": "1968",
+                "publishedDate": "2021",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_10",
-                        "identifier": "9750723325"
+                        "identifier": "6257310032"
                     },
                     {
                         "type": "ISBN_13",
-                        "identifier": "9789750723322"
+                        "identifier": "9786257310031"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 166,
+                "pageCount": 352,
                 "printType": "BOOK",
-                "categories": [
-                    "Turkey"
-                ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
@@ -40,14 +36,10 @@
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=CnwXswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=CnwXswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=CnwXswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=CnwXswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Atesten_Gomlek.html?hl=&id=CnwXswEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=j2MtzwEACAAJ&dq=1984&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=j2MtzwEACAAJ&dq=1984&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=j2MtzwEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -66,210 +58,48 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=CnwXswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=j2MtzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
-            "id": "pCWIDAEACAAJ",
-            "etag": "01dDXjXNppE",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/pCWIDAEACAAJ",
+            "id": "CLBMAQAAMAAJ",
+            "etag": "Mp/Z3tncihk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/CLBMAQAAMAAJ",
             "volumeInfo": {
-                "title": "Atesten Gömlek",
-                "subtitle": "Sadelestirilmis Metin",
-                "authors": [
-                    "Halide Edip Adivar"
-                ],
-                "publishedDate": "2016-02-01",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "975072321X"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9789750723216"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 208,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=pCWIDAEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=pCWIDAEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Atesten_G%C3%B6mlek.html?hl=&id=pCWIDAEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=pCWIDAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "12PoAwAAQBAJ",
-            "etag": "slmqQTIP7E8",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/12PoAwAAQBAJ",
-            "volumeInfo": {
-                "title": "Ateşten Gömlek",
-                "subtitle": "Selim İleri'nin Sonsözüyle",
-                "authors": [
-                    "Halide Edib Adıvar"
-                ],
-                "publisher": "Can Yayınları",
-                "publishedDate": "2014-06-27",
-                "description": "Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt. Kurtuluş Savaşı’nın ateşten gömleğinin içinden çıkmış bir roman. Halide Edib Adıvar, her birini yakından tanıdığı roman kişilerini, yani silah arkadaşlarını içtenlikle, çağına ve yaşanan acı olaylara sorumlulukla tanıklık ederek anlatıyor. Bağımsızlık savaşımızı bütün gerçekliği ve canlılığıyla anlatan belki de en önemli roman, Ateşten Gömlek. İhtilal ve isyan günlerinden beri koza, kurt, kelebek devirleri tetkik edilen mahlûkat gibi Sakarya silâh arkadaşlarımın \"Ateşten Gömlek\"te birkaç solgun aksini İstanbul, ihtilal ve ordu günlerinden alıp kâğıt üstüne koymaya çalıştım. İstediğim gibi olmadığı için silâh arkadaşlarımdan af dilemek isterdim. Bize onlar ilham ettiler.",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9789750720048"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "9750720040"
-                    }
-                ],
-                "readingModes": {
-                    "text": true,
-                    "image": false
-                },
-                "pageCount": 256,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "1.1.1.0.preview.2",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=12PoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=12PoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=12PoAwAAQBAJ&printsec=frontcover&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=12PoAwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=12PoAwAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 26.55,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 18.05,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=12PoAwAAQBAJ&rdid=book-12PoAwAAQBAJ&rdot=1&source=gbs_api",
-                "offers": [
-                    {
-                        "finskyOfferType": 1,
-                        "listPrice": {
-                            "amountInMicros": 26550000,
-                            "currencyCode": "TRY"
-                        },
-                        "retailPrice": {
-                            "amountInMicros": 18050000,
-                            "currencyCode": "TRY"
-                        }
-                    }
-                ]
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "PARTIAL",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Ate%C5%9Ften_G%C3%B6mlek-sample-epub.acsm?id=12PoAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=12PoAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Ateşten Gömlek, cepheden, romanda anlatılan kişilerle omuz omuza yaşamış birinden gelen bir yapıt."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "5WgFaSyEcuIC",
-            "etag": "eDuJGYPuIMo",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/5WgFaSyEcuIC",
-            "volumeInfo": {
-                "title": "Ateşten gömlek",
-                "authors": [
-                    "Halide Edib Adıvar"
-                ],
-                "publishedDate": "1937",
+                "title": "Bulletin",
+                "publishedDate": "1928",
                 "industryIdentifiers": [
                     {
                         "type": "OTHER",
-                        "identifier": "UOM:39015023967527"
+                        "identifier": "MINN:31951P00234517Q"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 204,
                 "printType": "BOOK",
                 "categories": [
-                    "Turkey"
+                    "Geology"
                 ],
-                "averageRating": 5,
-                "ratingsCount": 1,
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "0.1.1.0.preview.0",
+                "contentVersion": "0.2.2.0.preview.0",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=5WgFaSyEcuIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=5WgFaSyEcuIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=CLBMAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=CLBMAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
                 },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=5WgFaSyEcuIC&q=Ate%C5%9Ften+G%C3%B6mlek&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=5WgFaSyEcuIC&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=5WgFaSyEcuIC"
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=CLBMAQAAMAAJ&q=1984&dq=1984&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=CLBMAQAAMAAJ&dq=1984&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Bulletin.html?hl=&id=CLBMAQAAMAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -288,106 +118,529 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=5WgFaSyEcuIC&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=CLBMAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "metasomatism, Smith, D. L., and Ehrenberg (<b>1984</b>) meteorites, Dickinson, T., Keil, La Paz, Bogard, Schmitt, Smith, and Rhodes (<b>1984</b>); Sipiera (<b>1984</b>) mica, Arai (<b>1984</b>); Bailey (<b>1984</b>); Durović, Weiss, and Backhaus (<b>1984</b>) Mimbres River,&nbsp;..."
             }
         },
         {
             "kind": "books#volume",
-            "id": "fy9kAAAAMAAJ",
-            "etag": "PRHmvbxKwss",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/fy9kAAAAMAAJ",
+            "id": "2LIMbwRBwBoC",
+            "etag": "DYm+TlD2g1U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/2LIMbwRBwBoC",
             "volumeInfo": {
-                "title": "Sevda ateşten gömlek",
+                "title": "Indian Health Care Improvement Act Amendments of 1984",
+                "subtitle": "Hearings Before the Committee on Interior and Insular Affairs, House of Representatives, Ninety-eighth Congress, Second Session, on H.R. 4567 ... Hearings Held in Washington, DC, March 22 and 29; and April 5 and 12, 1984",
                 "authors": [
-                    "Nâzım Hikmet"
+                    "United States. Congress. House. Committee on Interior and Insular Affairs"
+                ],
+                "publishedDate": "1984",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCR:31210012866610"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 833,
+                "printType": "BOOK",
+                "categories": [
+                    "Health facilities"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.4.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=2LIMbwRBwBoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=2LIMbwRBwBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=2LIMbwRBwBoC&pg=PA39&dq=1984&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=2LIMbwRBwBoC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2LIMbwRBwBoC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=2LIMbwRBwBoC&rdid=book-2LIMbwRBwBoC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/Indian_Health_Care_Improvement_Act_Amend.epub?id=2LIMbwRBwBoC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=2LIMbwRBwBoC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Hearings Before the Committee on Interior and Insular Affairs, House of Representatives, Ninety-eighth Congress, Second Session, on H.R. 4567 ... Hearings Held in Washington, DC, March 22 and 29; and April 5 and 12, <b>1984</b> United States."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "HQUbIK6jREMC",
+            "etag": "ci04fDFGVH4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/HQUbIK6jREMC",
+            "volumeInfo": {
+                "title": "Urban Forestry, 1984-May 1987",
+                "subtitle": "209 Citations",
+                "authors": [
+                    "Jayne T. MacLean"
                 ],
                 "publishedDate": "1987",
                 "industryIdentifiers": [
                     {
                         "type": "OTHER",
-                        "identifier": "UOM:39015040780820"
+                        "identifier": "MINN:31951002954241Y"
                     }
                 ],
                 "readingModes": {
                     "text": false,
-                    "image": false
+                    "image": true
                 },
-                "pageCount": 204,
+                "pageCount": 24,
                 "printType": "BOOK",
                 "categories": [
-                    "Poets, Turkish"
+                    "Urban forestry"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "0.2.1.0.preview.0",
+                "contentVersion": "2.2.5.0.full.1",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=fy9kAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=fy9kAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=HQUbIK6jREMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=HQUbIK6jREMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=fy9kAAAAMAAJ&q=Ate%C5%9Ften+G%C3%B6mlek&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=fy9kAAAAMAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Sevda_ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=fy9kAAAAMAAJ"
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=HQUbIK6jREMC&pg=PA6&dq=1984&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=HQUbIK6jREMC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HQUbIK6jREMC"
             },
             "saleInfo": {
                 "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=HQUbIK6jREMC&rdid=book-HQUbIK6jREMC&rdot=1&source=gbs_api"
             },
             "accessInfo": {
                 "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
-                    "isAvailable": false
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/Urban_Forestry_1984_May_1987.epub?id=HQUbIK6jREMC&hl=&output=epub&source=gbs_api"
                 },
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=fy9kAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
+                "webReaderLink": "http://play.google.com/books/reader?id=HQUbIK6jREMC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
                 "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "July <b>1984</b>. v . 109 ( 4 ) . p . 448-450 . ill . Includes 6 references . ( NAL Call No .: 81 S012 ) . 0079 It pays to care for mature trees . ANURA . Ball , J. Chicago , Ill . : American Nurseryman Publishing Co. American nurseryman ."
             }
         },
         {
             "kind": "books#volume",
-            "id": "RDpRvgEACAAJ",
-            "etag": "xPy4+vPbiNQ",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/RDpRvgEACAAJ",
+            "id": "Ty4CwOQ-ZLsC",
+            "etag": "GiGC7ibzdes",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ty4CwOQ-ZLsC",
             "volumeInfo": {
-                "title": "Ateşten gömlek",
-                "subtitle": "roman",
-                "authors": [
-                    "Halide Edib Adıvar"
+                "title": "NASA Conference on Large Space Antenna Systems Technology, 1984",
+                "subtitle": "December 4-6, 1984",
+                "publishedDate": "1984",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "WISC:89053271169"
+                    }
                 ],
-                "publishedDate": "2011",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 22,
+                "printType": "BOOK",
+                "categories": [
+                    "Large space structures (Astronautics)"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.6.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Ty4CwOQ-ZLsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Ty4CwOQ-ZLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=Ty4CwOQ-ZLsC&pg=PA458&dq=1984&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Ty4CwOQ-ZLsC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ty4CwOQ-ZLsC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=Ty4CwOQ-ZLsC&rdid=book-Ty4CwOQ-ZLsC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/NASA_Conference_on_Large_Space_Antenna_S.epub?id=Ty4CwOQ-ZLsC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Ty4CwOQ-ZLsC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "December 4-6, <b>1984</b>. LSAST - <b>1984</b> CONFERENCE ATTENDEE LIST - CONTINUED LSAST - <b>1984_CONFERENCE</b> ATTENDEE LIST LSAST - <b>1984</b> CONFERENCE ATTENDEE. CAMARDA , CHARLIE CAMARET , TIM CAMPBELL , BRUCE CAMPBELL , THOMAS G. CARD , DR ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "U8HbOrn--CkC",
+            "etag": "9+o4PGgSPNk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/U8HbOrn--CkC",
+            "volumeInfo": {
+                "title": "District of Columbia Appropriations for Fiscal Year 1984",
+                "subtitle": "Hearings Before a Subcommittee of the Committee on Appropriations, United States Senate, Ninety-eighth Congress, First Session, Department of Human Services, Juvenile Issues Panel, Court System, Metropolitan Police Department and Legal Services, Department of Corrections, Board of Education ....",
+                "authors": [
+                    "United States. Congress. Senate. Committee on Appropriations. Subcommittee on District of Columbia"
+                ],
+                "publishedDate": "1983",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCAL:B4681657"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 1450,
+                "printType": "BOOK",
+                "categories": [
+                    "United States"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.4.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=U8HbOrn--CkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=U8HbOrn--CkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=U8HbOrn--CkC&pg=PA665&dq=1984&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=U8HbOrn--CkC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=U8HbOrn--CkC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=U8HbOrn--CkC&rdid=book-U8HbOrn--CkC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/District_of_Columbia_Appropriations_for.epub?id=U8HbOrn--CkC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=U8HbOrn--CkC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "ļ Taxpayers Requesting Assistance Taxpayers Assisted ( Millions ) Staff Years 75 .70 65 60 155 50 30 20 10 6,000 5,000 4,000 3,000 45 421 1 T 1976 40 : 1977 Taxpayer ervice Workload and Resources FY 1976-<b>1984</b> 44.7 ! 38 1978 ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "B3YwyM6WF3QC",
+            "etag": "TXD3HMbtftU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/B3YwyM6WF3QC",
+            "volumeInfo": {
+                "title": "Status of Strategic Petroleum Reserve Activities as of September 30, 1984",
+                "subtitle": "Report by the U.S. General Accounting Office",
+                "authors": [
+                    "United States. General Accounting Office"
+                ],
+                "publishedDate": "1984",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UIUC:30112033987576"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 27,
+                "printType": "BOOK",
+                "categories": [
+                    "Petroleum reserves"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.4.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=B3YwyM6WF3QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=B3YwyM6WF3QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=B3YwyM6WF3QC&pg=PA21&dq=1984&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=B3YwyM6WF3QC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B3YwyM6WF3QC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=B3YwyM6WF3QC&rdid=book-B3YwyM6WF3QC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/Status_of_Strategic_Petroleum_Reserve_Ac.epub?id=B3YwyM6WF3QC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=B3YwyM6WF3QC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "APPENDIX II APPENDIX II Table 8 Summary of Leaching Activities for the Quarter Ending September 30 , <b>1984a</b> Brine disposal Baseline Actual Cumulative oil capacityb Baseline Actual Cumulative oil fill Baseline Actual ( thousands of&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "SJWJ2amhOg4C",
+            "etag": "mw0c1eDQj7w",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/SJWJ2amhOg4C",
+            "volumeInfo": {
+                "title": "Allocation of Resources in the Soviet Union and China--1984",
+                "subtitle": "Hearings Before the Subcommittee on International Trade, Finance, and Security Economics of the Joint Economic Committee, Congress of the United States, Ninety-eighth Congress, Second Session and Ninety-ninth Congress, First Session. Executive sessions, November 21, 1984, and January 15, 1985",
+                "authors": [
+                    "United States. Congress. Joint Economic Committee. Subcommittee on Priorities and Economy in Government",
+                    "United States. Congress. Joint Economic Committee. Subcommittee on International Trade, Finance, and Security Economics"
+                ],
+                "publishedDate": "1985",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "PURD:32754077267262"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 259,
+                "printType": "BOOK",
+                "categories": [
+                    "China"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.4.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=SJWJ2amhOg4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=SJWJ2amhOg4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=SJWJ2amhOg4C&pg=PA43&dq=1984&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=SJWJ2amhOg4C&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SJWJ2amhOg4C"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=SJWJ2amhOg4C&rdid=book-SJWJ2amhOg4C&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/Allocation_of_Resources_in_the_Soviet_Un.epub?id=SJWJ2amhOg4C&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=SJWJ2amhOg4C&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "USSR : Growth of GNP and Selected Sectors of the Economy 1971-75 Average Annual Percent Change 1976-78 1979-82 1983 <b>1984C</b> GNP a 3.7 3.7 1.6 3.2 2 Agriculture -0.4 5.2 -0.9 6.3 0 Industry 5.9 3.8 2.4 3.4 3.5 Calculated at factor cost . b&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "sjA5EKHS3JoC",
+            "etag": "so7eNJks+L0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/sjA5EKHS3JoC",
+            "volumeInfo": {
+                "title": "Impact of the Administration's Proposed Fiscal 1984 Budget on Arts, Humanities, and Museums",
+                "subtitle": "Hearings Before the Subcommittee on Postsecondary Education of the Committee on Education and Labor, House of Representatives, Ninety-eighth Congress, First Session, Hearings Held in Washington, D.C., on March 3 and New York, N.Y., March 18, 1983",
+                "authors": [
+                    "United States. Congress. House. Committee on Education and Labor. Subcommittee on Postsecondary Education"
+                ],
+                "publishedDate": "1983",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "STANFORD:36105045244899"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 242,
+                "printType": "BOOK",
+                "categories": [
+                    "Federal aid to museums"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.10.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=sjA5EKHS3JoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=sjA5EKHS3JoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=sjA5EKHS3JoC&pg=RA1-PA13&dq=1984&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=sjA5EKHS3JoC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sjA5EKHS3JoC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=sjA5EKHS3JoC&rdid=book-sjA5EKHS3JoC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.com.tr/books/download/Impact_of_the_Administration_s_Proposed.epub?id=sjA5EKHS3JoC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=sjA5EKHS3JoC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "( FEDERALLY APPROPRIATED FUNDS ONLY ) ( 1 000 * 8 ) FY1982 FY1983 <b>FY1984</b> BUDGET ACTIVITY APPL GRANTS AMOUNT APPL GRANTS AMOUNT APPL . GRANTS AMOUNT DANCE 960 414 8,458 882 392 9,039 915 290 6.500 DESIGN ARTS 914 270 4,638 a / 1,205 152&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "J2hqzgEACAAJ",
+            "etag": "lSgEobuJutw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/J2hqzgEACAAJ",
+            "volumeInfo": {
+                "title": "1984",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publishedDate": "2021-03",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_10",
-                        "identifier": "9750707753"
+                        "identifier": "6254412020"
                     },
                     {
                         "type": "ISBN_13",
-                        "identifier": "9789750707759"
+                        "identifier": "9786254412028"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 223,
+                "pageCount": 448,
                 "printType": "BOOK",
-                "categories": [
-                    "Fiction"
-                ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
@@ -395,67 +648,10 @@
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=RDpRvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=RDpRvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=RDpRvgEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=RDpRvgEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=RDpRvgEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=RDpRvgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "zVYoQQAACAAJ",
-            "etag": "+fIw9nQO8XU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/zVYoQQAACAAJ",
-            "volumeInfo": {
-                "title": "Ateşten gömlek",
-                "authors": [
-                    "Halide Edib Adıvar"
-                ],
-                "publishedDate": "1920",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "OCLC:283686406"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 274,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
                 "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=zVYoQQAACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=zVYoQQAACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=zVYoQQAACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=J2hqzgEACAAJ&dq=1984&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=J2hqzgEACAAJ&dq=1984&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=J2hqzgEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -474,185 +670,7 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=zVYoQQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "TEMrAAAAMAAJ",
-            "etag": "3VUP6Lk8ciE",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/TEMrAAAAMAAJ",
-            "volumeInfo": {
-                "title": "Atesten gömlek",
-                "subtitle": "Sakarya ordusuna",
-                "authors": [
-                    "Halide Edib Adıvar"
-                ],
-                "publishedDate": "1969",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UOM:39015058645527"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 182,
-                "printType": "BOOK",
-                "categories": [
-                    "Turkey"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "1.7.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=TEMrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=TEMrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=TEMrAAAAMAAJ&q=Ate%C5%9Ften+G%C3%B6mlek&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=TEMrAAAAMAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Atesten_g%C3%B6mlek.html?hl=&id=TEMrAAAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=TEMrAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "1wPBswEACAAJ",
-            "etag": "DvkrxLk+0AU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/1wPBswEACAAJ",
-            "volumeInfo": {
-                "title": "Ateşten Gömlek",
-                "authors": [
-                    "Halide Edip Adıvar"
-                ],
-                "publishedDate": "2003",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "OCLC:984440707"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 160,
-                "printType": "BOOK",
-                "categories": [
-                    "Türk Romanı 20. yüzyıl"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=1wPBswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=1wPBswEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_G%C3%B6mlek.html?hl=&id=1wPBswEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=1wPBswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "YefGngEACAAJ",
-            "etag": "TFCW9bLUebA",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/YefGngEACAAJ",
-            "volumeInfo": {
-                "title": "Ateşten gömlek",
-                "authors": [
-                    "Halide Edib Adivar"
-                ],
-                "publishedDate": "1978",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "OCLC:164707762"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 160,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=YefGngEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=YefGngEACAAJ&dq=Ate%C5%9Ften+G%C3%B6mlek&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Ate%C5%9Ften_g%C3%B6mlek.html?hl=&id=YefGngEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=YefGngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=J2hqzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
