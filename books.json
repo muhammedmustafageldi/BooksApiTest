@@ -1,37 +1,45 @@
 {
     "kind": "books#volumes",
-    "totalItems": 2489,
+    "totalItems": 1771,
     "items": [
         {
             "kind": "books#volume",
-            "id": "u2VDnQEACAAJ",
-            "etag": "HnDmSNsi5Uw",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/u2VDnQEACAAJ",
+            "id": "HUyItQEACAAJ",
+            "etag": "Rz67jOnMNy4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/HUyItQEACAAJ",
             "volumeInfo": {
-                "title": "Karadenizin kıyıcığında",
+                "title": "Hababam Sinifi",
                 "authors": [
-                    "Rıfat İlgaz"
+                    "Rifat Ilgaz"
                 ],
-                "publishedDate": "1989",
+                "publishedDate": "2018-02",
                 "industryIdentifiers": [
                     {
-                        "type": "OTHER",
-                        "identifier": "OCLC:165608684"
+                        "type": "ISBN_10",
+                        "identifier": "9753482639"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789753482639"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 357,
+                "pageCount": 516,
                 "printType": "BOOK",
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=u2VDnQEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=HUyItQEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=HUyItQEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi.html?hl=&id=HUyItQEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -50,38 +58,346 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=u2VDnQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=HUyItQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
-            "id": "_rk_AAAAIAAJ",
-            "etag": "uAIGWeQ7vbA",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/_rk_AAAAIAAJ",
+            "id": "k47WwAEACAAJ",
+            "etag": "udn2797Z+1A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/k47WwAEACAAJ",
             "volumeInfo": {
-                "title": "Karadenizin kıyıcığında",
-                "subtitle": "roman",
+                "title": "Hababam Sinifi Sinifta Kaldi",
                 "authors": [
-                    "Rıfat Ilgaz"
+                    "Rifat Ilgaz"
                 ],
-                "publishedDate": "1969",
+                "publishedDate": "2019",
                 "industryIdentifiers": [
                     {
-                        "type": "OTHER",
-                        "identifier": "UCAL:$B131387"
+                        "type": "ISBN_10",
+                        "identifier": "9753482663"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789753482660"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 362,
+                "pageCount": 124,
                 "printType": "BOOK",
-                "categories": [
-                    "Turkish fiction"
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=k47WwAEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=k47WwAEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi_Sinifta_Kaldi.html?hl=&id=k47WwAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=k47WwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Dgo1zgEACAAJ",
+            "etag": "myde9o+rrkE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Dgo1zgEACAAJ",
+            "volumeInfo": {
+                "title": "Hababam Sinifi Icraatin Icinde",
+                "authors": [
+                    "Rifat Ilgaz"
                 ],
+                "publishedDate": "2019",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9753482647"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789753482646"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 176,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=Dgo1zgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=Dgo1zgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi_Icraatin_Icinde.html?hl=&id=Dgo1zgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Dgo1zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "DkBczgEACAAJ",
+            "etag": "TEgV+07DnEY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/DkBczgEACAAJ",
+            "volumeInfo": {
+                "title": "Hababam sınıfı filmlerinin \"Değerler eğitimi'ne etkisi",
+                "authors": [
+                    "Mustafa Yasir Kaçmaz"
+                ],
+                "publishedDate": "2020",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6257221463"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786257221467"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 203,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=DkBczgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=DkBczgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_filmlerinin_De%C4%9Ferler.html?hl=&id=DkBczgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=DkBczgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Cr0_AAAAIAAJ",
+            "etag": "AkNRIdYOQoE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Cr0_AAAAIAAJ",
+            "volumeInfo": {
+                "title": "Hababam Sinifi",
+                "subtitle": "oyun, iki bölüm, beṣ tablo",
+                "authors": [
+                    "Rıfat Ilgaz"
+                ],
+                "publishedDate": "1967",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCAL:$B131386"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 90,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.5.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Cr0_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Cr0_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=Cr0_AAAAIAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=Cr0_AAAAIAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi.html?hl=&id=Cr0_AAAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Cr0_AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "oyun, iki bölüm, beş tablo Rıfat Ilgaz. *...!!!!!! !! :-) ---- BİRİNCİ TABLO (<b>HABABAM SINIFI</b>... Sıralar... Kara tahta... Sultan Palamuttan kalma."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "1fAmAAAAMAAJ",
+            "etag": "yUVe/s4AxT0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/1fAmAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Hababam sınıfı baskında",
+                "authors": [
+                    "Rıfat Ilgaz"
+                ],
+                "publishedDate": "1972",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015058573547"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 190,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.6.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=1fAmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=1fAmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=1fAmAAAAMAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=1fAmAAAAMAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_bask%C4%B1nda.html?hl=&id=1fAmAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=1fAmAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Rıfat Ilgaz. G üld ü r ü D i z i si : S E KİZ <b>HABABAM SINIFI</b> BASKINDA «x» vvs A, 2āīūōso, √°√∞(Ay, oãĒNo (p."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "eDhCAQAAIAAJ",
+            "etag": "tWAM4hdeQyk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/eDhCAQAAIAAJ",
+            "volumeInfo": {
+                "title": "Hababam sınıfı baskında",
+                "authors": [
+                    "Rıfat Ilgaz"
+                ],
+                "publishedDate": "1972",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UCAL:$B366945"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 184,
+                "printType": "BOOK",
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "0.6.3.0.preview.0",
@@ -90,13 +406,13 @@
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=_rk_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=_rk_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=eDhCAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=eDhCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=_rk_AAAAIAAJ&q=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=_rk_AAAAIAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=_rk_AAAAIAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=eDhCAQAAIAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=eDhCAQAAIAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_bask%C4%B1nda.html?hl=&id=eDhCAQAAIAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -115,53 +431,175 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=_rk_AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=eDhCAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
-            "id": "0OxHAAAAMAAJ",
-            "etag": "uC0eRo+XKgM",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/0OxHAAAAMAAJ",
+            "id": "SThCAQAAIAAJ",
+            "etag": "gMYE/6WI+nk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/SThCAQAAIAAJ",
             "volumeInfo": {
-                "title": "Karadenizin kıyıcığında",
-                "subtitle": "roman",
+                "title": "Hababam sınıfı sınıfta kaldı",
+                "subtitle": "güldürü, 2 bölüm",
                 "authors": [
                     "Rıfat Ilgaz"
                 ],
-                "publishedDate": "1969",
+                "publishedDate": "1971",
                 "industryIdentifiers": [
                     {
                         "type": "OTHER",
-                        "identifier": "UOM:39015065828611"
+                        "identifier": "UCAL:$B366944"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 362,
+                "pageCount": 136,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=SThCAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=SThCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=SThCAQAAIAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=SThCAQAAIAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_s%C4%B1n%C4%B1fta_kald%C4%B1.html?hl=&id=SThCAQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=SThCAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "güldürü, 2 bölüm Rıfat Ilgaz. I RIFAT İLGAZ ıl J <b>HABABAM SINIFI</b> SINIFTA KALDI t ••"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "q8nSswEACAAJ",
+            "etag": "jjvSe7PPTgc",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/q8nSswEACAAJ",
+            "volumeInfo": {
+                "title": "Hababam sınıfı",
+                "subtitle": "uyanıyor",
+                "authors": [
+                    "Rıfat Ilgaz"
+                ],
+                "publishedDate": "1985",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "OCLC:901494594"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 99,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=q8nSswEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=q8nSswEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1.html?hl=&id=q8nSswEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=q8nSswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "bOlAuAAACAAJ",
+            "etag": "n3JaKI+N01M",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bOlAuAAACAAJ",
+            "volumeInfo": {
+                "title": "Hababam Sinifi",
+                "authors": [
+                    "Rifat Ilgaz"
+                ],
+                "publishedDate": "2011-01-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6053601004"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786053601005"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 516,
                 "printType": "BOOK",
                 "categories": [
                     "Turkish fiction"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "0.3.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
+                "contentVersion": "preview-1.0.0",
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=bOlAuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bOlAuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&q=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=0OxHAAAAMAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=bOlAuAAACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=bOlAuAAACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi.html?hl=&id=bOlAuAAACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -180,624 +618,9 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=0OxHAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=bOlAuAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "der geçerdim . &gt;&gt; « Ben de öyle , Karadenizliyim ! » « Hemşeriyiz demek ! &gt;&gt; « Bi denizin kıyıcığında büyümüşüz , <b>Karadeniz&#39;in Kıyıcığında</b> . » « Hemşeriyiz ! » « Sözlüyüz , üstelik ... &gt;&gt; « Sözlü ! &gt;&gt; <b>KARADENİZİN KIYICIĞINDA</b> 173."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "uSJ_BwAAQBAJ",
-            "etag": "4uMd1iJM7y0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/uSJ_BwAAQBAJ",
-            "volumeInfo": {
-                "title": "Rıfat Ilgaz",
-                "subtitle": "Yaşamı, Kişiliği, Şairliği, Hikayeciliği, Romancılığı, Oyunları, Anıları, Köşe Yazarlığı",
-                "authors": [
-                    "Asım Bezirci"
-                ],
-                "publisher": "Evrensel Basım Yayın",
-                "publishedDate": "2014-01-01",
-                "description": "Asım Bezirci'nin titiz ve sabırlı çalışmalarının bir ürünü olan elinizdeki kitap iki ana bölümden oluşuyor; \"tanıtmalar\" bölümünde Rıfat Ilgaz'ın yaşamı, şairliği, hikâyeciliği, romancılığı ile oyun, anı, fıkra yazarlığı ayrıntılarıyla sergileniyor. Söz konusu türlerde çıkmış eserlerinin çoğu tanıtılıp değerlendiriliyor. Bunun için üç boyutlu ilginç bir yöntem izleniyor; Rıfat Ilgaz'ın açıklamaları ve Asım Bezirci'nin değerlendirmeleri ile çeşitli yazarların çözümleme ve eleştirilerinden birbirini tamamlayan, geliştiren parçalar aktarılıyor. Böylece eserlerin değişik açılardan aydınlanması, yargılanması sağlanmış oluyor. \"Seçmeler\" bölümünde ise, Rıfat Ilgaz'ın en güzel şiirleri ile hikâyeleri ve köşe yazılarından seçilmiş bir demet sunuluyor. Kitabın sonunda ise zengin bir \"kaynakça\" veriliyor. Rıfat Ilgaz'ı sanatsal evrimi ve toplumsal çevresi içinde derinden incelemek, sıcak bir yaklaşımla renkli kişiliğini yakından tanımak ve seçkin ürünlerini zevkle okumak isteyenler için özgün bir \"monogra?\", belgesel bir \"kaynak\", bir başvuru kitabı\"… Ayrıca Asım Bezirci, Rıfat Ilgaz incelemesiyle 1989 Ferit Oğuz Bayır Kültür ve Sanat Ödülü'nü kazanmıştır.",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9786054834686"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "6054834681"
-                    }
-                ],
-                "readingModes": {
-                    "text": true,
-                    "image": true
-                },
-                "pageCount": 264,
-                "printType": "BOOK",
-                "categories": [
-                    "Biography & Autobiography"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "1.2.2.0.preview.3",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=uSJ_BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=uSJ_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=uSJ_BwAAQBAJ&pg=PT137&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 25,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 25,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ&rdid=book-uSJ_BwAAQBAJ&rdot=1&source=gbs_api",
-                "offers": [
-                    {
-                        "finskyOfferType": 1,
-                        "listPrice": {
-                            "amountInMicros": 25000000,
-                            "currencyCode": "TRY"
-                        },
-                        "retailPrice": {
-                            "amountInMicros": 25000000,
-                            "currencyCode": "TRY"
-                        }
-                    }
-                ]
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "PARTIAL",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/R%C4%B1fat_Ilgaz-sample-epub.acsm?id=uSJ_BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/R%C4%B1fat_Ilgaz-sample-pdf.acsm?id=uSJ_BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=uSJ_BwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "“Evet, bu romanda (Yıldız Karayel) Karadeniz&#39;in sol kanadını anlatıyorum. <b>Karadeniz&#39;in Kıyıcığında</b> da oranın sol kanadını anlatmıştım. Genelde romanda fındık tarımı işleniyordu. Karadeniz&#39;in kıyılarında yaşayan insanlarımızın&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "NzO7AAAAIAAJ",
-            "etag": "VsG/LrAhH8U",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/NzO7AAAAIAAJ",
-            "volumeInfo": {
-                "title": "Rıfat Ilgaz Sempozyumu",
-                "subtitle": "10-12 Mayıs 2006, Kastamonu",
-                "publishedDate": "2007",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "STANFORD:36105128817611"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 908,
-                "printType": "BOOK",
-                "categories": [
-                    "Authors, Turkish"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "1.4.2.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=NzO7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=NzO7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&q=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/R%C4%B1fat_Ilgaz_Sempozyumu.html?hl=&id=NzO7AAAAIAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=NzO7AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Ardından yine bir romandan uyarlama olan <b>Karadenizin Kıyıcığında</b> gelir . Bu oyunda yazar , Karadeniz&#39;in küçük bir kasabasında ( Akçakoca ) tarımla uğraşan ve değirmen de çalışan sıradan insanların gündelik yaşamlarını bir aşk öyküsü&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "Ha7eBQAAQBAJ",
-            "etag": "a9AB40T/L78",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ha7eBQAAQBAJ",
-            "volumeInfo": {
-                "title": "Ekmek Kavgası",
-                "authors": [
-                    "Derleme"
-                ],
-                "publisher": "Evrensel Basım Yayın",
-                "publishedDate": "2013-01-01",
-                "description": "\"Ekmek kavgası, temel bir kavga. Her türlü sömürüye, haksızlığa, eşitsizliğe karşı bir özgürlük kavgası. İnsan olabilmenin, insan gibi yaşayabilmenin ve insan gibi ölebilmenin kavgası. Bu kitapta Türk ve dünya edebiyatından derlediğimiz 25 öyküde işçinin, emekçinin yaşama savaşını, el emeği, göz nuru ile ürettiklerine sahip olamayışının nedenlerini kimi acı, kimi duygusal, kimi de güldürücü ama düşündürücü serüvenler içinde izleyeceksiniz. Öyküleri, iş, emek ve çalışma içindeki emekçinin günlük yaşamını, sorunlarını, işyerlerinin durumunu, özellikle sermaye sahibi ile aralarındaki uzlaşmaz çelişkiyi, bu çelişkinin doğurduğu yoksulluğu belirtmesi açısından ayırdık. Öyküleri, iş ve işçi yaşamını sanatsal açıdan en güzel, en etkili biçimde anlatanlardan seçtik. Onun için toplumca gerçekçi öykücülerimizin yanında bu görüşe bağlı olmayan gerçekçi yazarlarımızın öyküleri de kitapta yer aldı. O öyküler de, koşulların getirdiği zorunluluklarla işçinin yoksulluğunu, iş ve işçi yaşamının güçlüklerini, uğradıkları haksızlıklarla sömürülüşlerini gerçekçi bir gözle anlatıyor.\" -Sennur Sezer-Adnan Özyalçıner- (Arka Kapak) Kitapta, Refik Halit Karay, Sadri Ertem, Bekir Sıtkı Kunt, Sabahattin Ali, Sait Faik, Memduh Şevket Esendal, John Steinbeck, Ahmet Naim, Mehmet Seyda, Fahri Erdinç, Orhan Kemal, Yaşar Kemal, Haldun Taner, Samim Kocagöz, Rıfat Ilgaz, Necati Cumalı, Kemal Bilbaşar, Aziz Nesin, B. Traven, Muzaffer Hacıhasanoğlu, İlhan Tarus, Georgi Karaslavov, Nezihe Meriç, Tarık Dursun K., Tahsin Yücel'in öyküleri bulunmaktadır.",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9786053311959"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "6053311952"
-                    }
-                ],
-                "readingModes": {
-                    "text": true,
-                    "image": true
-                },
-                "pageCount": 177,
-                "printType": "BOOK",
-                "categories": [
-                    "Fiction"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "1.2.2.0.preview.3",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=Ha7eBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=Ha7eBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=Ha7eBQAAQBAJ&pg=PT167&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=Ha7eBQAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ha7eBQAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 8.1,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 8.1,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=Ha7eBQAAQBAJ&rdid=book-Ha7eBQAAQBAJ&rdot=1&source=gbs_api",
-                "offers": [
-                    {
-                        "finskyOfferType": 1,
-                        "listPrice": {
-                            "amountInMicros": 8100000,
-                            "currencyCode": "TRY"
-                        },
-                        "retailPrice": {
-                            "amountInMicros": 8100000,
-                            "currencyCode": "TRY"
-                        }
-                    }
-                ]
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "PARTIAL",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Ekmek_Kavgas%C4%B1-sample-epub.acsm?id=Ha7eBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Ekmek_Kavgas%C4%B1-sample-pdf.acsm?id=Ha7eBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=Ha7eBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Başlıca kitapları arasında: Hababam Sınıfı (1966), <b>Karadenizin Kıyıcığında</b> (1969), Sarı Yazma (1976), Yıldız Karayel (1981) adlı romanlarıyla, Kesmeli Bunları (1969), Şevket Ustanın Kedisi (1965) adlı öykü kitapları anılabilir."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "_KFyDwAAQBAJ",
-            "etag": "ArELTTl9SyU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/_KFyDwAAQBAJ",
-            "volumeInfo": {
-                "title": "İNSANCIL DERGİSİ AĞUSTOS-2017 SAYISI",
-                "authors": [
-                    "KOLLEKTİF"
-                ],
-                "publisher": "İNSANCIL YAYINLARI",
-                "publishedDate": "2017-08-01",
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 64,
-                "printType": "BOOK",
-                "categories": [
-                    "Philosophy"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=_KFyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=_KFyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=_KFyDwAAQBAJ&pg=PA27&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 17.7,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 17.7,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ&rdid=book-_KFyDwAAQBAJ&rdot=1&source=gbs_api",
-                "offers": [
-                    {
-                        "finskyOfferType": 1,
-                        "listPrice": {
-                            "amountInMicros": 17700000,
-                            "currencyCode": "TRY"
-                        },
-                        "retailPrice": {
-                            "amountInMicros": 17700000,
-                            "currencyCode": "TRY"
-                        }
-                    }
-                ]
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "PARTIAL",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/%C4%B0NSANCIL_DERG%C4%B0S%C4%B0_A%C4%9EUSTOS_2017_SAYISI-sample-pdf.acsm?id=_KFyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=_KFyDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "<b>Karadenizin Kıyıcığında</b>-Rıfat Ilgaz . Huzur-Ahmet Hamdi Tanpınar . Saatleri Ayarlama Enstitüsü- Ahmet Hamdi Tanpınar Bugünün Saraylısı-Refik Halid Karay Hanımın Çiftliği -Orhan Kemal Kanlı Topraklar- Orhan Kemal Devlet&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "OLjPDwAAQBAJ",
-            "etag": "01qJxwWM+fM",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/OLjPDwAAQBAJ",
-            "volumeInfo": {
-                "title": "İstanbul Kültür ve Edebiyat Atlası",
-                "authors": [
-                    "M. Davut Göksu",
-                    "Türkiye Turing ve Otomobil Kurumu"
-                ],
-                "publisher": "Türkiye Turing ve Otomobil kurumu",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9789757641483"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "9757641480"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 576,
-                "printType": "BOOK",
-                "categories": [
-                    "Literary Collections"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=OLjPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=OLjPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=OLjPDwAAQBAJ&pg=PA335&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=OLjPDwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OLjPDwAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 0,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 0,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=OLjPDwAAQBAJ&rdid=book-OLjPDwAAQBAJ&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": true
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=OLjPDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "... Rüşvetin Alamancası, Çalış Osman Çiftlik Senin, Sosyal Kadınlar Partisi, Hababam Sınıfı, Bizim Koğuş, <b>Karadenizin Kıyıcığında</b>, Meşrutiyet Kıraathanesi, Karartma Geceleri, Sarı Yazma, Yıldız Karayel, Hababam Sınıfı İcraatın İçinde,&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "0ZHZBQAAQBAJ",
-            "etag": "qSHCXQI4ZyM",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/0ZHZBQAAQBAJ",
-            "volumeInfo": {
-                "title": "Alfabetik Sıralı Eser-Sanatçı-Tür Sanatçı-Eser-Tür Sözlüğü",
-                "subtitle": "Alfabetik Sıralı Eser-Sanatçı-Tür Sanatçı-Eser-Tür Cep Sözlüğü",
-                "authors": [
-                    "Serhat MENTEŞE",
-                    "İsmail SABANCI",
-                    "Coşkun AYVAZOĞLU",
-                    "Zeliha ÖZCAN"
-                ],
-                "publisher": "Mısra Yayıncılık",
-                "description": "YGS,LYS ve KPSS'ye yardımcı. Eser-Sanatçı eşleştirmesi, Eser-Tür eşleştirmesi, Eser-Sanatçı-Tür tasnifi, Sanatçı-Eser-Tür eşleştirmesi.",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9786054152261"
-                    },
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "6054152262"
-                    }
-                ],
-                "readingModes": {
-                    "text": true,
-                    "image": true
-                },
-                "pageCount": 224,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "1.1.1.0.preview.3",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=0ZHZBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=0ZHZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=0ZHZBQAAQBAJ&pg=PT83&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 4.6,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 4.6,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ&rdid=book-0ZHZBQAAQBAJ&rdot=1&source=gbs_api",
-                "offers": [
-                    {
-                        "finskyOfferType": 1,
-                        "listPrice": {
-                            "amountInMicros": 4600000,
-                            "currencyCode": "TRY"
-                        },
-                        "retailPrice": {
-                            "amountInMicros": 4600000,
-                            "currencyCode": "TRY"
-                        }
-                    }
-                ]
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "PARTIAL",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Alfabetik_S%C4%B1ral%C4%B1_Eser_Sanat%C3%A7%C4%B1_T%C3%BCr_S-sample-epub.acsm?id=0ZHZBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Alfabetik_S%C4%B1ral%C4%B1_Eser_Sanat%C3%A7%C4%B1_T%C3%BCr_S-sample-pdf.acsm?id=0ZHZBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=0ZHZBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "ESERLERİ: Roman: Hababam Sınıfı, Bizim Koğuş, Halime Kaptan, <b>Karadenizin Kıyıcığında</b>, Karartma Geceleri, Sarı Yazma, Yıldız Karayel Hikâye: Radarın Anahtarı, Don Kişot İstanbul&#39;da, Kesmeli Bunları, Nerde O Eski Usturalar,&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "3ltVDwAAQBAJ",
-            "etag": "E8PtPQFbPP0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/3ltVDwAAQBAJ",
-            "volumeInfo": {
-                "title": "Hayalet e-Dergi Mayıs 2017 Sayı 03",
-                "subtitle": "Hayal gücü tetikleyicisi",
-                "authors": [
-                    "Atilla Bilgen",
-                    "Aynur Kulak",
-                    "Emrullah Çıta",
-                    "Gökçe Mehmet Ay",
-                    "Funda Özlem Şeran",
-                    "Fatih Yürür ",
-                    "Mehmet Berk Yaltırık",
-                    "Melahat Yılmaz",
-                    " Oğuz Özteker",
-                    "Okan Kasnak",
-                    "Reha Ülkü",
-                    "Sezin Mavioğlu",
-                    "Süheyl Toktan",
-                    "Yusuf Gürkan",
-                    "Ümit Kireççi",
-                    "Özgün Uysal",
-                    "Çağrı Çalışır",
-                    "Meryem Yavuz",
-                    "Sezai İdi"
-                ],
-                "publisher": "Mehmet Kaan Sevinç",
-                "publishedDate": "2017-05-31",
-                "description": "Bahar, yalvarırım çek git işine! Salma üstüme çiçeklerini, aklımı çelme! Ya da Orhan Veli’nin dediği gibi “Beni bu güzel havalar mahvetti” Acelemiz yok, uyduk bahara aheste çekiyoruz kürekleri ki mehtap uyanmasın. Yazıp çizmenin keyfini çıkartıyoruz. Aheste takılıyoruz hayata. Üçüncü sayımızda “düsturumuz’’ belli oldu. “Her ayın dibinde masa üstünüzde’’ Hahhaaaaaa... Gelecek sayımızda tekrar görüşmek dileğiyle; Herkese iyi okumalar.",
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 96,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": true,
-                "contentVersion": "0.1.0.0.preview.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=3ltVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=3ltVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=3ltVDwAAQBAJ&pg=PA51&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=3ltVDwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3ltVDwAAQBAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FOR_SALE",
-                "isEbook": true,
-                "listPrice": {
-                    "amount": 0,
-                    "currencyCode": "TRY"
-                },
-                "retailPrice": {
-                    "amount": 0,
-                    "currencyCode": "TRY"
-                },
-                "buyLink": "https://play.google.com/store/books/details?id=3ltVDwAAQBAJ&rdid=book-3ltVDwAAQBAJ&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Hayalet_e_Dergi_May%C4%B1s_2017_Say%C4%B1_03-sample-pdf.acsm?id=3ltVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=3ltVDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "SAMPLE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Sarı Yazma, Yıldız Karayel, Halime Kaptan ve <b>Karadenizin Kıyıcığında</b> gibi romanlarında bu yöreyi tema olarak aldı. Kastamonu ve Cide&#39;de adına etkinlikler düzenlenmektedir. Rıfat Ilgaz&#39;ın Kastamonu ile ilgili yönlerini en iyi veren&nbsp;..."
             }
         }
     ]
