@@ -65,69 +65,6 @@
         },
         {
             "kind": "books#volume",
-            "id": "CLBMAQAAMAAJ",
-            "etag": "Mp/Z3tncihk",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/CLBMAQAAMAAJ",
-            "volumeInfo": {
-                "title": "Bulletin",
-                "publishedDate": "1928",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "MINN:31951P00234517Q"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "printType": "BOOK",
-                "categories": [
-                    "Geology"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.2.2.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=CLBMAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=CLBMAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=CLBMAQAAMAAJ&q=1984&dq=1984&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=CLBMAQAAMAAJ&dq=1984&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Bulletin.html?hl=&id=CLBMAQAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=CLBMAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "metasomatism, Smith, D. L., and Ehrenberg (<b>1984</b>) meteorites, Dickinson, T., Keil, La Paz, Bogard, Schmitt, Smith, and Rhodes (<b>1984</b>); Sipiera (<b>1984</b>) mica, Arai (<b>1984</b>); Bailey (<b>1984</b>); Durović, Weiss, and Backhaus (<b>1984</b>) Mimbres River,&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
             "id": "2LIMbwRBwBoC",
             "etag": "DYm+TlD2g1U",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/2LIMbwRBwBoC",
