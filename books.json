@@ -1,11 +1,11 @@
 {
     "kind": "books#volumes",
-    "totalItems": 3483,
+    "totalItems": 2489,
     "items": [
         {
             "kind": "books#volume",
             "id": "u2VDnQEACAAJ",
-            "etag": "eKp0wEbOMxs",
+            "etag": "HnDmSNsi5Uw",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/u2VDnQEACAAJ",
             "volumeInfo": {
                 "title": "Karadenizin kıyıcığında",
@@ -29,8 +29,8 @@
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "previewLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=u2VDnQEACAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
                 "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=u2VDnQEACAAJ"
             },
             "saleInfo": {
@@ -57,41 +57,46 @@
         },
         {
             "kind": "books#volume",
-            "id": "ScLimgEACAAJ",
-            "etag": "OVAVKFRwB0w",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/ScLimgEACAAJ",
+            "id": "_rk_AAAAIAAJ",
+            "etag": "uAIGWeQ7vbA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_rk_AAAAIAAJ",
             "volumeInfo": {
                 "title": "Karadenizin kıyıcığında",
-                "subtitle": "Roman",
+                "subtitle": "roman",
                 "authors": [
                     "Rıfat Ilgaz"
                 ],
-                "publishedDate": "2011",
+                "publishedDate": "1969",
                 "industryIdentifiers": [
                     {
-                        "type": "ISBN_10",
-                        "identifier": "6053602108"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9786053602101"
+                        "type": "OTHER",
+                        "identifier": "UCAL:$B131387"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
+                "pageCount": 362,
                 "printType": "BOOK",
                 "categories": [
                     "Turkish fiction"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
+                "contentVersion": "0.6.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=_rk_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=_rk_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=ScLimgEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=ScLimgEACAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=ScLimgEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=_rk_AAAAIAAJ&q=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=_rk_AAAAIAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=_rk_AAAAIAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -110,15 +115,83 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=ScLimgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=_rk_AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
+            "id": "0OxHAAAAMAAJ",
+            "etag": "uC0eRo+XKgM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0OxHAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Karadenizin kıyıcığında",
+                "subtitle": "roman",
+                "authors": [
+                    "Rıfat Ilgaz"
+                ],
+                "publishedDate": "1969",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015065828611"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 362,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkish fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&q=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=0OxHAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=0OxHAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "der geçerdim . &gt;&gt; « Ben de öyle , Karadenizliyim ! » « Hemşeriyiz demek ! &gt;&gt; « Bi denizin kıyıcığında büyümüşüz , <b>Karadeniz&#39;in Kıyıcığında</b> . » « Hemşeriyiz ! » « Sözlüyüz , üstelik ... &gt;&gt; « Sözlü ! &gt;&gt; <b>KARADENİZİN KIYICIĞINDA</b> 173."
+            }
+        },
+        {
+            "kind": "books#volume",
             "id": "uSJ_BwAAQBAJ",
-            "etag": "8gRYmVP0ySg",
+            "etag": "4uMd1iJM7y0",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/uSJ_BwAAQBAJ",
             "volumeInfo": {
                 "title": "Rıfat Ilgaz",
@@ -160,7 +233,7 @@
                     "thumbnail": "http://books.google.com/books/content?id=uSJ_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=uSJ_BwAAQBAJ&pg=PT137&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "previewLink": "http://books.google.com.tr/books?id=uSJ_BwAAQBAJ&pg=PT137&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
                 "infoLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ&source=gbs_api",
                 "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uSJ_BwAAQBAJ"
             },
@@ -210,13 +283,13 @@
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "(<b>Rıfat Ilgaz</b>/Cumhuriyet, 26.8.1981) “1969&#39;un sessizlikle karşılanan değerli kitaplarından biri <b>Rıfat Ilgaz</b>&#39;ın eseri: <b>Karadeniz&#39;in Kıyıcığında</b>. Hakkında hiçbir eleştiri ve tanıtma yazısı çıkmadı; edebiyatçıların yakındıkları,&nbsp;..."
+                "textSnippet": "“Evet, bu romanda (Yıldız Karayel) Karadeniz&#39;in sol kanadını anlatıyorum. <b>Karadeniz&#39;in Kıyıcığında</b> da oranın sol kanadını anlatmıştım. Genelde romanda fındık tarımı işleniyordu. Karadeniz&#39;in kıyılarında yaşayan insanlarımızın&nbsp;..."
             }
         },
         {
             "kind": "books#volume",
             "id": "NzO7AAAAIAAJ",
-            "etag": "yt9AeyZnucw",
+            "etag": "VsG/LrAhH8U",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/NzO7AAAAIAAJ",
             "volumeInfo": {
                 "title": "Rıfat Ilgaz Sempozyumu",
@@ -249,8 +322,8 @@
                     "thumbnail": "http://books.google.com/books/content?id=NzO7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
+                "previewLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&q=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=NzO7AAAAIAAJ&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
                 "canonicalVolumeLink": "https://books.google.com/books/about/R%C4%B1fat_Ilgaz_Sempozyumu.html?hl=&id=NzO7AAAAIAAJ"
             },
             "saleInfo": {
@@ -275,171 +348,40 @@
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "<b>Rifat Ilgaz</b> ve Halk Tiyatrosu Metin Boran1 Sanat ve edebiyat alanında onlarca yapıt üreterek bir dönemin toplumsal ve kültürel koşullarına tanıklığını ... Ardından yine bir romandan uyarlama olan <b>Karadenizin Kıyıcığında</b> gelir ."
+                "textSnippet": "Ardından yine bir romandan uyarlama olan <b>Karadenizin Kıyıcığında</b> gelir . Bu oyunda yazar , Karadeniz&#39;in küçük bir kasabasında ( Akçakoca ) tarımla uğraşan ve değirmen de çalışan sıradan insanların gündelik yaşamlarını bir aşk öyküsü&nbsp;..."
             }
         },
         {
             "kind": "books#volume",
-            "id": "1ksuAAAAMAAJ",
-            "etag": "PVLRFezm8dY",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/1ksuAAAAMAAJ",
+            "id": "Ha7eBQAAQBAJ",
+            "etag": "a9AB40T/L78",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ha7eBQAAQBAJ",
             "volumeInfo": {
-                "title": "Sarıyazma",
+                "title": "Ekmek Kavgası",
                 "authors": [
-                    "Rıfat Ilgaz"
-                ],
-                "publishedDate": "1976",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UOM:39015003647560"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 422,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "1.4.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=1ksuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=1ksuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=1ksuAAAAMAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=1ksuAAAAMAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Sar%C4%B1yazma.html?hl=&id=1ksuAAAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=1ksuAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "niJkAAAAMAAJ",
-            "etag": "Skf/SAPymKU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/niJkAAAAMAAJ",
-            "volumeInfo": {
-                "title": "Rıfat Ilgaz",
-                "subtitle": "yaşamı, kişiliği, şairliği, hikâyeciliği, romancılığı, oyun ve fıkra yazarlığı ile eserlerinden seçmeler",
-                "authors": [
-                    "Rıfat Ilgaz",
-                    "Asım Bezirci"
-                ],
-                "publishedDate": "1988",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UOM:39015042023815"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 284,
-                "printType": "BOOK",
-                "categories": [
-                    "Authors, Turkish"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.5.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=niJkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=niJkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=niJkAAAAMAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=niJkAAAAMAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/R%C4%B1fat_Ilgaz.html?hl=&id=niJkAAAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=niJkAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Çocukluğunun <b>Karadeniz</b>&#39;ini ve insanlarını bulamayınca , tüm bağlarını kopardığını ilan etmişti . <b>Karadeniz</b>&#39;i ve insanlarını <b>Karadeniz Kıyıcığında</b> ile başlattığı bir dizi romanla <b>Rıfat Ilgaz</b> anlatmaya başladı . ( ."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "aSB_BwAAQBAJ",
-            "etag": "TTIHosn+wG8",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/aSB_BwAAQBAJ",
-            "volumeInfo": {
-                "title": "Seçme Romanlar",
-                "subtitle": "Yazarları, Eserleri, Roman Özetleri, Eleştiriler, Kaynaklar",
-                "authors": [
-                    "Asım Bezirci"
+                    "Derleme"
                 ],
                 "publisher": "Evrensel Basım Yayın",
-                "publishedDate": "2014-01-01",
-                "description": "\"Seçme Romanlar\", Namık Kemal'in İntibah'ı ile başlayıp Latife Tekin'in \"Sevgili Arsız Ölüm\"ü ile sona eriyor. Böylece, Tanzimat'tan günümüze romancılığımızın belirli bir ölçüde hem evrim çizgisi gösterilmiş, hem de en güzel / en önemli ürünleri tanıtılmış oluyor. Bütün bu özellikleriyle \"Seçme Romanlar\", yalnızca öğrencilerle roman sever okurlar için değil, öğretmenler, yazarlar ve incelemeciler için de yararlı bir kaynak ve güvenilir bir kılavuz kitaptır.",
+                "publishedDate": "2013-01-01",
+                "description": "\"Ekmek kavgası, temel bir kavga. Her türlü sömürüye, haksızlığa, eşitsizliğe karşı bir özgürlük kavgası. İnsan olabilmenin, insan gibi yaşayabilmenin ve insan gibi ölebilmenin kavgası. Bu kitapta Türk ve dünya edebiyatından derlediğimiz 25 öyküde işçinin, emekçinin yaşama savaşını, el emeği, göz nuru ile ürettiklerine sahip olamayışının nedenlerini kimi acı, kimi duygusal, kimi de güldürücü ama düşündürücü serüvenler içinde izleyeceksiniz. Öyküleri, iş, emek ve çalışma içindeki emekçinin günlük yaşamını, sorunlarını, işyerlerinin durumunu, özellikle sermaye sahibi ile aralarındaki uzlaşmaz çelişkiyi, bu çelişkinin doğurduğu yoksulluğu belirtmesi açısından ayırdık. Öyküleri, iş ve işçi yaşamını sanatsal açıdan en güzel, en etkili biçimde anlatanlardan seçtik. Onun için toplumca gerçekçi öykücülerimizin yanında bu görüşe bağlı olmayan gerçekçi yazarlarımızın öyküleri de kitapta yer aldı. O öyküler de, koşulların getirdiği zorunluluklarla işçinin yoksulluğunu, iş ve işçi yaşamının güçlüklerini, uğradıkları haksızlıklarla sömürülüşlerini gerçekçi bir gözle anlatıyor.\" -Sennur Sezer-Adnan Özyalçıner- (Arka Kapak) Kitapta, Refik Halit Karay, Sadri Ertem, Bekir Sıtkı Kunt, Sabahattin Ali, Sait Faik, Memduh Şevket Esendal, John Steinbeck, Ahmet Naim, Mehmet Seyda, Fahri Erdinç, Orhan Kemal, Yaşar Kemal, Haldun Taner, Samim Kocagöz, Rıfat Ilgaz, Necati Cumalı, Kemal Bilbaşar, Aziz Nesin, B. Traven, Muzaffer Hacıhasanoğlu, İlhan Tarus, Georgi Karaslavov, Nezihe Meriç, Tarık Dursun K., Tahsin Yücel'in öyküleri bulunmaktadır.",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_13",
-                        "identifier": "9786053312123"
+                        "identifier": "9786053311959"
                     },
                     {
                         "type": "ISBN_10",
-                        "identifier": "6053312126"
+                        "identifier": "6053311952"
                     }
                 ],
                 "readingModes": {
                     "text": true,
                     "image": true
                 },
-                "pageCount": 490,
+                "pageCount": 177,
                 "printType": "BOOK",
                 "categories": [
-                    "Reference"
+                    "Fiction"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": true,
@@ -449,36 +391,36 @@
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=aSB_BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=aSB_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=Ha7eBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Ha7eBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=aSB_BwAAQBAJ&pg=PT185&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=aSB_BwAAQBAJ&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aSB_BwAAQBAJ"
+                "previewLink": "http://books.google.com.tr/books?id=Ha7eBQAAQBAJ&pg=PT167&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Ha7eBQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ha7eBQAAQBAJ"
             },
             "saleInfo": {
                 "country": "TR",
                 "saleability": "FOR_SALE",
                 "isEbook": true,
                 "listPrice": {
-                    "amount": 25,
+                    "amount": 8.1,
                     "currencyCode": "TRY"
                 },
                 "retailPrice": {
-                    "amount": 25,
+                    "amount": 8.1,
                     "currencyCode": "TRY"
                 },
-                "buyLink": "https://play.google.com/store/books/details?id=aSB_BwAAQBAJ&rdid=book-aSB_BwAAQBAJ&rdot=1&source=gbs_api",
+                "buyLink": "https://play.google.com/store/books/details?id=Ha7eBQAAQBAJ&rdid=book-Ha7eBQAAQBAJ&rdot=1&source=gbs_api",
                 "offers": [
                     {
                         "finskyOfferType": 1,
                         "listPrice": {
-                            "amountInMicros": 25000000,
+                            "amountInMicros": 8100000,
                             "currencyCode": "TRY"
                         },
                         "retailPrice": {
-                            "amountInMicros": 25000000,
+                            "amountInMicros": 8100000,
                             "currencyCode": "TRY"
                         }
                     }
@@ -492,92 +434,24 @@
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Se%C3%A7me_Romanlar-sample-epub.acsm?id=aSB_BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Ekmek_Kavgas%C4%B1-sample-epub.acsm?id=Ha7eBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
                 "pdf": {
                     "isAvailable": true,
-                    "acsTokenLink": "http://books.google.com.tr/books/download/Se%C3%A7me_Romanlar-sample-pdf.acsm?id=aSB_BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Ekmek_Kavgas%C4%B1-sample-pdf.acsm?id=Ha7eBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=aSB_BwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=Ha7eBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "(<b>Rıfat Ilgaz</b>) “1969&#39;un sessizlikle karşılanan değerli kitaplarından biri <b>Rıfat Ilgaz</b>&#39;ın eseri: <b>Karadeniz Kıyıcığında</b>. Hakkında hiçbir eleştiri ve tanıtma yazısı çıkmadı; edebiyatçıların yakındıkları, edebiyatçıların tanıdıkları sessiz&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "0OxHAAAAMAAJ",
-            "etag": "pAlxoCo1mEc",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/0OxHAAAAMAAJ",
-            "volumeInfo": {
-                "title": "Karadenizin kıyıcığında",
-                "subtitle": "roman",
-                "authors": [
-                    "Rıfat Ilgaz"
-                ],
-                "publishedDate": "1969",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UOM:39015065828611"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 362,
-                "printType": "BOOK",
-                "categories": [
-                    "Turkish fiction"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.3.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=0OxHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&q=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=0OxHAAAAMAAJ&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Karadenizin_k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda.html?hl=&id=0OxHAAAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=0OxHAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "roman <b>Rıfat Ilgaz</b>. <b>Karadenizin Kıyıcığında</b> Roman CEM YAYINEVİ ! PL 248 I 2&#39;1 КЗ Dizgi ve Baskı : <b>RIFAT ILGAZ</b>."
+                "textSnippet": "Başlıca kitapları arasında: Hababam Sınıfı (1966), <b>Karadenizin Kıyıcığında</b> (1969), Sarı Yazma (1976), Yıldız Karayel (1981) adlı romanlarıyla, Kesmeli Bunları (1969), Şevket Ustanın Kedisi (1965) adlı öykü kitapları anılabilir."
             }
         },
         {
             "kind": "books#volume",
             "id": "_KFyDwAAQBAJ",
-            "etag": "7tdHYQ4mTn0",
+            "etag": "ArELTTl9SyU",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/_KFyDwAAQBAJ",
             "volumeInfo": {
                 "title": "İNSANCIL DERGİSİ AĞUSTOS-2017 SAYISI",
@@ -607,7 +481,7 @@
                     "thumbnail": "http://books.google.com/books/content?id=_KFyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=_KFyDwAAQBAJ&pg=PA27&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "previewLink": "http://books.google.com.tr/books?id=_KFyDwAAQBAJ&pg=PA27&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
                 "infoLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ&source=gbs_api",
                 "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_KFyDwAAQBAJ"
             },
@@ -656,13 +530,94 @@
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Yıldız Karayel -Rıfat Ilgaz . Karartma Geceleri- <b>Rıfat Ilgaz</b> . <b>Karadenizin Kıyıcığında</b>-Rıfat Ilgaz . Huzur-Ahmet Hamdi Tanpınar . Saatleri Ayarlama Enstitüsü- Ahmet Hamdi Tanpınar Bugünün Saraylısı-Refik Halid Karay Hanımın Çiftliği&nbsp;..."
+                "textSnippet": "<b>Karadenizin Kıyıcığında</b>-Rıfat Ilgaz . Huzur-Ahmet Hamdi Tanpınar . Saatleri Ayarlama Enstitüsü- Ahmet Hamdi Tanpınar Bugünün Saraylısı-Refik Halid Karay Hanımın Çiftliği -Orhan Kemal Kanlı Topraklar- Orhan Kemal Devlet&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "OLjPDwAAQBAJ",
+            "etag": "01qJxwWM+fM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/OLjPDwAAQBAJ",
+            "volumeInfo": {
+                "title": "İstanbul Kültür ve Edebiyat Atlası",
+                "authors": [
+                    "M. Davut Göksu",
+                    "Türkiye Turing ve Otomobil Kurumu"
+                ],
+                "publisher": "Türkiye Turing ve Otomobil kurumu",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789757641483"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9757641480"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 576,
+                "printType": "BOOK",
+                "categories": [
+                    "Literary Collections"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=OLjPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=OLjPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=OLjPDwAAQBAJ&pg=PA335&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=OLjPDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OLjPDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 0,
+                    "currencyCode": "TRY"
+                },
+                "retailPrice": {
+                    "amount": 0,
+                    "currencyCode": "TRY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=OLjPDwAAQBAJ&rdid=book-OLjPDwAAQBAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=OLjPDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "... Rüşvetin Alamancası, Çalış Osman Çiftlik Senin, Sosyal Kadınlar Partisi, Hababam Sınıfı, Bizim Koğuş, <b>Karadenizin Kıyıcığında</b>, Meşrutiyet Kıraathanesi, Karartma Geceleri, Sarı Yazma, Yıldız Karayel, Hababam Sınıfı İcraatın İçinde,&nbsp;..."
             }
         },
         {
             "kind": "books#volume",
             "id": "0ZHZBQAAQBAJ",
-            "etag": "PnFmPpWgNlU",
+            "etag": "qSHCXQI4ZyM",
             "selfLink": "https://www.googleapis.com/books/v1/volumes/0ZHZBQAAQBAJ",
             "volumeInfo": {
                 "title": "Alfabetik Sıralı Eser-Sanatçı-Tür Sanatçı-Eser-Tür Sözlüğü",
@@ -703,7 +658,7 @@
                     "thumbnail": "http://books.google.com/books/content?id=0ZHZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=0ZHZBQAAQBAJ&pg=PT24&dq=r%C4%B1fat+%C4%B1lgaz+karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "previewLink": "http://books.google.com.tr/books?id=0ZHZBQAAQBAJ&pg=PT83&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
                 "infoLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ&source=gbs_api",
                 "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0ZHZBQAAQBAJ"
             },
@@ -753,7 +708,96 @@
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Kadınlar Arasında: Oktay Rıfat&#39;ın oyunudur. Kadınlar Kataloğu: Heseidos&#39;un şiiridir. Kadınlar Mektebi: Moliere&#39;nin komedi tarzındaki ... <b>Karadeniz&#39;in Kıyıcığında</b>: <b>Rıfat Ilgaz</b>&#39;ın romanıdır. Karadut: Bedri Rahmi Eyüpoğlu&#39;nun bir şiiridir."
+                "textSnippet": "ESERLERİ: Roman: Hababam Sınıfı, Bizim Koğuş, Halime Kaptan, <b>Karadenizin Kıyıcığında</b>, Karartma Geceleri, Sarı Yazma, Yıldız Karayel Hikâye: Radarın Anahtarı, Don Kişot İstanbul&#39;da, Kesmeli Bunları, Nerde O Eski Usturalar,&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "3ltVDwAAQBAJ",
+            "etag": "E8PtPQFbPP0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/3ltVDwAAQBAJ",
+            "volumeInfo": {
+                "title": "Hayalet e-Dergi Mayıs 2017 Sayı 03",
+                "subtitle": "Hayal gücü tetikleyicisi",
+                "authors": [
+                    "Atilla Bilgen",
+                    "Aynur Kulak",
+                    "Emrullah Çıta",
+                    "Gökçe Mehmet Ay",
+                    "Funda Özlem Şeran",
+                    "Fatih Yürür ",
+                    "Mehmet Berk Yaltırık",
+                    "Melahat Yılmaz",
+                    " Oğuz Özteker",
+                    "Okan Kasnak",
+                    "Reha Ülkü",
+                    "Sezin Mavioğlu",
+                    "Süheyl Toktan",
+                    "Yusuf Gürkan",
+                    "Ümit Kireççi",
+                    "Özgün Uysal",
+                    "Çağrı Çalışır",
+                    "Meryem Yavuz",
+                    "Sezai İdi"
+                ],
+                "publisher": "Mehmet Kaan Sevinç",
+                "publishedDate": "2017-05-31",
+                "description": "Bahar, yalvarırım çek git işine! Salma üstüme çiçeklerini, aklımı çelme! Ya da Orhan Veli’nin dediği gibi “Beni bu güzel havalar mahvetti” Acelemiz yok, uyduk bahara aheste çekiyoruz kürekleri ki mehtap uyanmasın. Yazıp çizmenin keyfini çıkartıyoruz. Aheste takılıyoruz hayata. Üçüncü sayımızda “düsturumuz’’ belli oldu. “Her ayın dibinde masa üstünüzde’’ Hahhaaaaaa... Gelecek sayımızda tekrar görüşmek dileğiyle; Herkese iyi okumalar.",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 96,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=3ltVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=3ltVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=3ltVDwAAQBAJ&pg=PA51&dq=karadenizin+k%C4%B1y%C4%B1c%C4%B1%C4%9F%C4%B1nda&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=3ltVDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3ltVDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 0,
+                    "currencyCode": "TRY"
+                },
+                "retailPrice": {
+                    "amount": 0,
+                    "currencyCode": "TRY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=3ltVDwAAQBAJ&rdid=book-3ltVDwAAQBAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/Hayalet_e_Dergi_May%C4%B1s_2017_Say%C4%B1_03-sample-pdf.acsm?id=3ltVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=3ltVDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Sarı Yazma, Yıldız Karayel, Halime Kaptan ve <b>Karadenizin Kıyıcığında</b> gibi romanlarında bu yöreyi tema olarak aldı. Kastamonu ve Cide&#39;de adına etkinlikler düzenlenmektedir. Rıfat Ilgaz&#39;ın Kastamonu ile ilgili yönlerini en iyi veren&nbsp;..."
             }
         }
     ]
