@@ -1,290 +1,50 @@
 {
     "kind": "books#volumes",
-    "totalItems": 1771,
+    "totalItems": 1560,
     "items": [
         {
             "kind": "books#volume",
-            "id": "HUyItQEACAAJ",
-            "etag": "Rz67jOnMNy4",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/HUyItQEACAAJ",
+            "id": "7Z4dngEACAAJ",
+            "etag": "eK34CnwYofA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7Z4dngEACAAJ",
             "volumeInfo": {
-                "title": "Hababam Sinifi",
+                "title": "Nutuk",
+                "subtitle": "Söylev",
                 "authors": [
-                    "Rifat Ilgaz"
+                    "Mustafa Kemal Atatürk"
                 ],
-                "publishedDate": "2018-02",
+                "publishedDate": "2009-10",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_10",
-                        "identifier": "9753482639"
+                        "identifier": "9751028051"
                     },
                     {
                         "type": "ISBN_13",
-                        "identifier": "9789753482639"
+                        "identifier": "9789751028051"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 516,
+                "pageCount": 704,
                 "printType": "BOOK",
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=HUyItQEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=HUyItQEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi.html?hl=&id=HUyItQEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=HUyItQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "k47WwAEACAAJ",
-            "etag": "udn2797Z+1A",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/k47WwAEACAAJ",
-            "volumeInfo": {
-                "title": "Hababam Sinifi Sinifta Kaldi",
-                "authors": [
-                    "Rifat Ilgaz"
-                ],
-                "publishedDate": "2019",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "9753482663"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9789753482660"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 124,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=k47WwAEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=k47WwAEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi_Sinifta_Kaldi.html?hl=&id=k47WwAEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=k47WwAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "Dgo1zgEACAAJ",
-            "etag": "myde9o+rrkE",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/Dgo1zgEACAAJ",
-            "volumeInfo": {
-                "title": "Hababam Sinifi Icraatin Icinde",
-                "authors": [
-                    "Rifat Ilgaz"
-                ],
-                "publishedDate": "2019",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "9753482647"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9789753482646"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 176,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=Dgo1zgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=Dgo1zgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi_Icraatin_Icinde.html?hl=&id=Dgo1zgEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=Dgo1zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "DkBczgEACAAJ",
-            "etag": "TEgV+07DnEY",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/DkBczgEACAAJ",
-            "volumeInfo": {
-                "title": "Hababam sınıfı filmlerinin \"Değerler eğitimi'ne etkisi",
-                "authors": [
-                    "Mustafa Yasir Kaçmaz"
-                ],
-                "publishedDate": "2020",
-                "industryIdentifiers": [
-                    {
-                        "type": "ISBN_10",
-                        "identifier": "6257221463"
-                    },
-                    {
-                        "type": "ISBN_13",
-                        "identifier": "9786257221467"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 203,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=DkBczgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=DkBczgEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_filmlerinin_De%C4%9Ferler.html?hl=&id=DkBczgEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=DkBczgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "Cr0_AAAAIAAJ",
-            "etag": "AkNRIdYOQoE",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/Cr0_AAAAIAAJ",
-            "volumeInfo": {
-                "title": "Hababam Sinifi",
-                "subtitle": "oyun, iki bölüm, beṣ tablo",
-                "authors": [
-                    "Rıfat Ilgaz"
-                ],
-                "publishedDate": "1967",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UCAL:$B131386"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 90,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.5.3.0.preview.0",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=Cr0_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=Cr0_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=7Z4dngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7Z4dngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=Cr0_AAAAIAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=Cr0_AAAAIAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi.html?hl=&id=Cr0_AAAAIAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=7Z4dngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=7Z4dngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=7Z4dngEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -303,303 +63,53 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=Cr0_AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "oyun, iki bölüm, beş tablo Rıfat Ilgaz. *...!!!!!! !! :-) ---- BİRİNCİ TABLO (<b>HABABAM SINIFI</b>... Sıralar... Kara tahta... Sultan Palamuttan kalma."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "1fAmAAAAMAAJ",
-            "etag": "yUVe/s4AxT0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/1fAmAAAAMAAJ",
-            "volumeInfo": {
-                "title": "Hababam sınıfı baskında",
-                "authors": [
-                    "Rıfat Ilgaz"
-                ],
-                "publishedDate": "1972",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UOM:39015058573547"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 190,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.6.2.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=1fAmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=1fAmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=1fAmAAAAMAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=1fAmAAAAMAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_bask%C4%B1nda.html?hl=&id=1fAmAAAAMAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=1fAmAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "Rıfat Ilgaz. G üld ü r ü D i z i si : S E KİZ <b>HABABAM SINIFI</b> BASKINDA «x» vvs A, 2āīūōso, √°√∞(Ay, oãĒNo (p."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "eDhCAQAAIAAJ",
-            "etag": "tWAM4hdeQyk",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/eDhCAQAAIAAJ",
-            "volumeInfo": {
-                "title": "Hababam sınıfı baskında",
-                "authors": [
-                    "Rıfat Ilgaz"
-                ],
-                "publishedDate": "1972",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UCAL:$B366945"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 184,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.6.3.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=eDhCAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=eDhCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=eDhCAQAAIAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=eDhCAQAAIAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_bask%C4%B1nda.html?hl=&id=eDhCAQAAIAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=eDhCAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=7Z4dngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
-            "id": "SThCAQAAIAAJ",
-            "etag": "gMYE/6WI+nk",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/SThCAQAAIAAJ",
+            "id": "OVB7tgEACAAJ",
+            "etag": "857nTS8IyVU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/OVB7tgEACAAJ",
             "volumeInfo": {
-                "title": "Hababam sınıfı sınıfta kaldı",
-                "subtitle": "güldürü, 2 bölüm",
+                "title": "Nutuk",
+                "subtitle": "söylev",
                 "authors": [
-                    "Rıfat Ilgaz"
+                    "Kemal Atatürk"
                 ],
-                "publishedDate": "1971",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UCAL:$B366944"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 136,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.2.1.0.preview.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=SThCAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=SThCAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=SThCAQAAIAAJ&q=Hababam+S%C4%B1n%C4%B1f%C4%B1&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=SThCAQAAIAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1_s%C4%B1n%C4%B1fta_kald%C4%B1.html?hl=&id=SThCAQAAIAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=SThCAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "güldürü, 2 bölüm Rıfat Ilgaz. I RIFAT İLGAZ ıl J <b>HABABAM SINIFI</b> SINIFTA KALDI t ••"
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "q8nSswEACAAJ",
-            "etag": "jjvSe7PPTgc",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/q8nSswEACAAJ",
-            "volumeInfo": {
-                "title": "Hababam sınıfı",
-                "subtitle": "uyanıyor",
-                "authors": [
-                    "Rıfat Ilgaz"
-                ],
-                "publishedDate": "1985",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "OCLC:901494594"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": false
-                },
-                "pageCount": 99,
-                "printType": "BOOK",
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "preview-1.0.0",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=q8nSswEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=q8nSswEACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_s%C4%B1n%C4%B1f%C4%B1.html?hl=&id=q8nSswEACAAJ"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "NOT_FOR_SALE",
-                "isEbook": false
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "NO_PAGES",
-                "embeddable": false,
-                "publicDomain": false,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=q8nSswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "NONE",
-                "quoteSharingAllowed": false
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "bOlAuAAACAAJ",
-            "etag": "n3JaKI+N01M",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/bOlAuAAACAAJ",
-            "volumeInfo": {
-                "title": "Hababam Sinifi",
-                "authors": [
-                    "Rifat Ilgaz"
-                ],
-                "publishedDate": "2011-01-01",
+                "publishedDate": "2007",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_10",
-                        "identifier": "6053601004"
+                        "identifier": "975991428X"
                     },
                     {
                         "type": "ISBN_13",
-                        "identifier": "9786053601005"
+                        "identifier": "9789759914288"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 516,
+                "pageCount": 189,
                 "printType": "BOOK",
                 "categories": [
-                    "Turkish fiction"
+                    "Turkey"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=bOlAuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=bOlAuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=bOlAuAAACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=bOlAuAAACAAJ&dq=Hababam+S%C4%B1n%C4%B1f%C4%B1&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/Hababam_Sinifi.html?hl=&id=bOlAuAAACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=OVB7tgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=OVB7tgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=OVB7tgEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -618,7 +128,1141 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=bOlAuAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=OVB7tgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "WSNLPgAACAAJ",
+            "etag": "A1pGsCtCX1E",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/WSNLPgAACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "subtitle": "Söylev Tam Metin",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2004-03-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9754684324"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789754684322"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 704,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkey"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=WSNLPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=WSNLPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=WSNLPgAACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=WSNLPgAACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=WSNLPgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=WSNLPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "V89ywQEACAAJ",
+            "etag": "WNN6/w5jJEA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/V89ywQEACAAJ",
+            "volumeInfo": {
+                "title": "Cocuklar icin Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2017-08",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6052398221"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786052398227"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 144,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=V89ywQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=V89ywQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cocuklar_icin_Nutuk.html?hl=&id=V89ywQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=V89ywQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "SlOytAEACAAJ",
+            "etag": "YM5z35g3Vm0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/SlOytAEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2017-04",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6059840825"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786059840828"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 768,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=SlOytAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=SlOytAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=SlOytAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=SlOytAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ViSktAEACAAJ",
+            "etag": "NNUrDV4Vh9k",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ViSktAEACAAJ",
+            "volumeInfo": {
+                "title": "Resimli Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2000",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9752554660"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789752554665"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 128,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ViSktAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ViSktAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=ViSktAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=ViSktAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Resimli_Nutuk.html?hl=&id=ViSktAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ViSktAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "dz6DngEACAAJ",
+            "etag": "U2Mu0XDSatY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/dz6DngEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "subtitle": "Gencler Icin Fotograflarla",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2013-01-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9944888346"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789944888349"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 620,
+                "printType": "BOOK",
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=dz6DngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=dz6DngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=dz6DngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=dz6DngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=dz6DngEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=dz6DngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "LlhzzgEACAAJ",
+            "etag": "MlfZbbdT9W0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/LlhzzgEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk - Cizgi Roman",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2021-05",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6050983062"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786050983067"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=LlhzzgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=LlhzzgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk_Cizgi_Roman.html?hl=&id=LlhzzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=LlhzzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "2tzzuQEACAAJ",
+            "etag": "zILCa8Unjj4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/2tzzuQEACAAJ",
+            "volumeInfo": {
+                "title": "Günümüz Türkcesiyle Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2018-07",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9750842952"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750842955"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 232,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=2tzzuQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=2tzzuQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/G%C3%BCn%C3%BCm%C3%BCz_T%C3%BCrkcesiyle_Nutuk.html?hl=&id=2tzzuQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=2tzzuQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pnCQtwEACAAJ",
+            "etag": "TPUptQUJIFk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pnCQtwEACAAJ",
+            "volumeInfo": {
+                "title": "Cumhuriyetimizin Emanetcisi Olan Cocuklarimiz Icin Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2018-05",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6054991892"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786054991891"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 130,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=pnCQtwEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=pnCQtwEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cumhuriyetimizin_Emanetcisi_Olan_Cocukla.html?hl=&id=pnCQtwEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pnCQtwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}{
+    "kind": "books#volumes",
+    "totalItems": 1560,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "7Z4dngEACAAJ",
+            "etag": "eK34CnwYofA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7Z4dngEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "subtitle": "Söylev",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2009-10",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9751028051"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789751028051"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 704,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=7Z4dngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7Z4dngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=7Z4dngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=7Z4dngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=7Z4dngEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=7Z4dngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "OVB7tgEACAAJ",
+            "etag": "857nTS8IyVU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/OVB7tgEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "subtitle": "söylev",
+                "authors": [
+                    "Kemal Atatürk"
+                ],
+                "publishedDate": "2007",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "975991428X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789759914288"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 189,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkey"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=OVB7tgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=OVB7tgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=OVB7tgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=OVB7tgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "WSNLPgAACAAJ",
+            "etag": "A1pGsCtCX1E",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/WSNLPgAACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "subtitle": "Söylev Tam Metin",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2004-03-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9754684324"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789754684322"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 704,
+                "printType": "BOOK",
+                "categories": [
+                    "Turkey"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=WSNLPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=WSNLPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=WSNLPgAACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=WSNLPgAACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=WSNLPgAACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=WSNLPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "V89ywQEACAAJ",
+            "etag": "WNN6/w5jJEA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/V89ywQEACAAJ",
+            "volumeInfo": {
+                "title": "Cocuklar icin Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2017-08",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6052398221"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786052398227"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 144,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=V89ywQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=V89ywQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cocuklar_icin_Nutuk.html?hl=&id=V89ywQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=V89ywQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "SlOytAEACAAJ",
+            "etag": "YM5z35g3Vm0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/SlOytAEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2017-04",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6059840825"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786059840828"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 768,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=SlOytAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=SlOytAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=SlOytAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=SlOytAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ViSktAEACAAJ",
+            "etag": "NNUrDV4Vh9k",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ViSktAEACAAJ",
+            "volumeInfo": {
+                "title": "Resimli Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2000",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9752554660"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789752554665"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 128,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ViSktAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ViSktAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=ViSktAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=ViSktAEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Resimli_Nutuk.html?hl=&id=ViSktAEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ViSktAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "dz6DngEACAAJ",
+            "etag": "U2Mu0XDSatY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/dz6DngEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk",
+                "subtitle": "Gencler Icin Fotograflarla",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2013-01-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9944888346"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789944888349"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 620,
+                "printType": "BOOK",
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=dz6DngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=dz6DngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=dz6DngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=dz6DngEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk.html?hl=&id=dz6DngEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=dz6DngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "LlhzzgEACAAJ",
+            "etag": "MlfZbbdT9W0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/LlhzzgEACAAJ",
+            "volumeInfo": {
+                "title": "Nutuk - Cizgi Roman",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2021-05",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6050983062"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786050983067"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=LlhzzgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=LlhzzgEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Nutuk_Cizgi_Roman.html?hl=&id=LlhzzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=LlhzzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "2tzzuQEACAAJ",
+            "etag": "zILCa8Unjj4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/2tzzuQEACAAJ",
+            "volumeInfo": {
+                "title": "Günümüz Türkcesiyle Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2018-07",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9750842952"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750842955"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 232,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=2tzzuQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=2tzzuQEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/G%C3%BCn%C3%BCm%C3%BCz_T%C3%BCrkcesiyle_Nutuk.html?hl=&id=2tzzuQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=2tzzuQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pnCQtwEACAAJ",
+            "etag": "TPUptQUJIFk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pnCQtwEACAAJ",
+            "volumeInfo": {
+                "title": "Cumhuriyetimizin Emanetcisi Olan Cocuklarimiz Icin Nutuk",
+                "authors": [
+                    "Mustafa Kemal Atatürk"
+                ],
+                "publishedDate": "2018-05",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "6054991892"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9786054991891"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 130,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=pnCQtwEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=pnCQtwEACAAJ&dq=Nutuk&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cumhuriyetimizin_Emanetcisi_Olan_Cocukla.html?hl=&id=pnCQtwEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pnCQtwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
