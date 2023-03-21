@@ -1,33 +1,33 @@
 {
     "kind": "books#volumes",
-    "totalItems": 814,
+    "totalItems": 1076,
     "items": [
         {
             "kind": "books#volume",
-            "id": "j2MtzwEACAAJ",
-            "etag": "cRdJRAkDG2I",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/j2MtzwEACAAJ",
+            "id": "U84PtAEACAAJ",
+            "etag": "aP2xXCvh4I0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/U84PtAEACAAJ",
             "volumeInfo": {
-                "title": "1984",
+                "title": "George Orwell Arkadasimdi",
                 "authors": [
-                    "George Orwell"
+                    "Adam Johnson"
                 ],
-                "publishedDate": "2021",
+                "publishedDate": "2018",
                 "industryIdentifiers": [
                     {
                         "type": "ISBN_10",
-                        "identifier": "6257310032"
+                        "identifier": "605678942X"
                     },
                     {
                         "type": "ISBN_13",
-                        "identifier": "9786257310031"
+                        "identifier": "9786056789427"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 352,
+                "pageCount": 260,
                 "printType": "BOOK",
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
@@ -37,9 +37,9 @@
                     "containsImageBubbles": false
                 },
                 "language": "tr",
-                "previewLink": "http://books.google.com.tr/books?id=j2MtzwEACAAJ&dq=1984&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=j2MtzwEACAAJ&dq=1984&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=j2MtzwEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=U84PtAEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=U84PtAEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell_Arkadasimdi.html?hl=&id=U84PtAEACAAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -58,526 +58,424 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=j2MtzwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=U84PtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
             }
         },
         {
             "kind": "books#volume",
-            "id": "2LIMbwRBwBoC",
-            "etag": "DYm+TlD2g1U",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/2LIMbwRBwBoC",
+            "id": "zXncAAAAQBAJ",
+            "etag": "U8xjV1KPfh4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zXncAAAAQBAJ",
             "volumeInfo": {
-                "title": "Indian Health Care Improvement Act Amendments of 1984",
-                "subtitle": "Hearings Before the Committee on Interior and Insular Affairs, House of Representatives, Ninety-eighth Congress, Second Session, on H.R. 4567 ... Hearings Held in Washington, DC, March 22 and 29; and April 5 and 12, 1984",
+                "title": "George Orwell",
+                "subtitle": "English Rebel",
                 "authors": [
-                    "United States. Congress. House. Committee on Interior and Insular Affairs"
+                    "Robert Colls"
                 ],
-                "publishedDate": "1984",
+                "publisher": "Oxford University Press",
+                "publishedDate": "2013-10",
+                "description": "An intellectual who did not like intellectuals, a socialist who did not trust the state, a liberal who was against free markets, a Protestant who believed in religion but not in God, a fierce opponent of nationalism who defined Englishness for a generation. Aside from being one of the greatest political essayists in the English language and author of two of the most famous books in twentieth century literature, George Orwell was a man of profound contradictions. George Orwell:English Rebel takes us through the many twists and turns of Orwell's life and thought, from precocious, public school satirist at Eton and imperial policeman in Burma, through his early years as a rather dour documentary writer, and his formative experiences as a volunteer soldier in the Spanish Civil War. Robert Colls traces, in particular, Orwell's complex relationship with his country, from the alienated intellectual of the mid-1930s through a gradual reconciliation, to the exhilarating peaks of his wartime writing. He explores the mistakes and contradictions, the lucky escapes and near misses, and what they tell us about Orwell as man and author.",
                 "industryIdentifiers": [
                     {
-                        "type": "OTHER",
-                        "identifier": "UCR:31210012866610"
+                        "type": "ISBN_13",
+                        "identifier": "9780199680801"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0199680809"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": true
                 },
-                "pageCount": 833,
+                "pageCount": 359,
                 "printType": "BOOK",
                 "categories": [
-                    "Health facilities"
+                    "Biography & Autobiography"
                 ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
-                "contentVersion": "0.3.4.0.full.1",
+                "contentVersion": "2.3.2.0.preview.1",
                 "panelizationSummary": {
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
                 "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=2LIMbwRBwBoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=2LIMbwRBwBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    "smallThumbnail": "http://books.google.com/books/content?id=zXncAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zXncAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
                 },
                 "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=2LIMbwRBwBoC&pg=PA39&dq=1984&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=2LIMbwRBwBoC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2LIMbwRBwBoC"
+                "previewLink": "http://books.google.com.tr/books?id=zXncAAAAQBAJ&printsec=frontcover&dq=George+Orwell&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=zXncAAAAQBAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=zXncAAAAQBAJ"
             },
             "saleInfo": {
                 "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=2LIMbwRBwBoC&rdid=book-2LIMbwRBwBoC&rdot=1&source=gbs_api"
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
             },
             "accessInfo": {
                 "country": "TR",
-                "viewability": "ALL_PAGES",
+                "viewability": "PARTIAL",
                 "embeddable": true,
-                "publicDomain": true,
+                "publicDomain": false,
                 "textToSpeechPermission": "ALLOWED",
                 "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/Indian_Health_Care_Improvement_Act_Amend.epub?id=2LIMbwRBwBoC&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=2LIMbwRBwBoC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/George_Orwell-sample-pdf.acsm?id=zXncAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zXncAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
                 "quoteSharingAllowed": false
             },
             "searchInfo": {
-                "textSnippet": "Hearings Before the Committee on Interior and Insular Affairs, House of Representatives, Ninety-eighth Congress, Second Session, on H.R. 4567 ... Hearings Held in Washington, DC, March 22 and 29; and April 5 and 12, <b>1984</b> United States."
+                "textSnippet": "A journey through the life and thought of George Orwell, from public school satirist and imperial policeman to Animal Farm and Nineteen Eighty Four."
             }
         },
         {
             "kind": "books#volume",
-            "id": "HQUbIK6jREMC",
-            "etag": "ci04fDFGVH4",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/HQUbIK6jREMC",
+            "id": "zyMluFEwA7AC",
+            "etag": "oSp6pcK4G6c",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zyMluFEwA7AC",
             "volumeInfo": {
-                "title": "Urban Forestry, 1984-May 1987",
-                "subtitle": "209 Citations",
-                "authors": [
-                    "Jayne T. MacLean"
-                ],
-                "publishedDate": "1987",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "MINN:31951002954241Y"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 24,
-                "printType": "BOOK",
-                "categories": [
-                    "Urban forestry"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "2.2.5.0.full.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=HQUbIK6jREMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=HQUbIK6jREMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=HQUbIK6jREMC&pg=PA6&dq=1984&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=HQUbIK6jREMC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HQUbIK6jREMC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=HQUbIK6jREMC&rdid=book-HQUbIK6jREMC&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": true,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/Urban_Forestry_1984_May_1987.epub?id=HQUbIK6jREMC&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=HQUbIK6jREMC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "July <b>1984</b>. v . 109 ( 4 ) . p . 448-450 . ill . Includes 6 references . ( NAL Call No .: 81 S012 ) . 0079 It pays to care for mature trees . ANURA . Ball , J. Chicago , Ill . : American Nurseryman Publishing Co. American nurseryman ."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "Ty4CwOQ-ZLsC",
-            "etag": "GiGC7ibzdes",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ty4CwOQ-ZLsC",
-            "volumeInfo": {
-                "title": "NASA Conference on Large Space Antenna Systems Technology, 1984",
-                "subtitle": "December 4-6, 1984",
-                "publishedDate": "1984",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "WISC:89053271169"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 22,
-                "printType": "BOOK",
-                "categories": [
-                    "Large space structures (Astronautics)"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.5.6.0.full.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=Ty4CwOQ-ZLsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=Ty4CwOQ-ZLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=Ty4CwOQ-ZLsC&pg=PA458&dq=1984&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=Ty4CwOQ-ZLsC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ty4CwOQ-ZLsC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=Ty4CwOQ-ZLsC&rdid=book-Ty4CwOQ-ZLsC&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": true,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/NASA_Conference_on_Large_Space_Antenna_S.epub?id=Ty4CwOQ-ZLsC&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=Ty4CwOQ-ZLsC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "December 4-6, <b>1984</b>. LSAST - <b>1984</b> CONFERENCE ATTENDEE LIST - CONTINUED LSAST - <b>1984_CONFERENCE</b> ATTENDEE LIST LSAST - <b>1984</b> CONFERENCE ATTENDEE. CAMARDA , CHARLIE CAMARET , TIM CAMPBELL , BRUCE CAMPBELL , THOMAS G. CARD , DR ."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "U8HbOrn--CkC",
-            "etag": "9+o4PGgSPNk",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/U8HbOrn--CkC",
-            "volumeInfo": {
-                "title": "District of Columbia Appropriations for Fiscal Year 1984",
-                "subtitle": "Hearings Before a Subcommittee of the Committee on Appropriations, United States Senate, Ninety-eighth Congress, First Session, Department of Human Services, Juvenile Issues Panel, Court System, Metropolitan Police Department and Legal Services, Department of Corrections, Board of Education ....",
-                "authors": [
-                    "United States. Congress. Senate. Committee on Appropriations. Subcommittee on District of Columbia"
-                ],
-                "publishedDate": "1983",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UCAL:B4681657"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 1450,
-                "printType": "BOOK",
-                "categories": [
-                    "United States"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.3.4.0.full.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=U8HbOrn--CkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=U8HbOrn--CkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=U8HbOrn--CkC&pg=PA665&dq=1984&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=U8HbOrn--CkC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=U8HbOrn--CkC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=U8HbOrn--CkC&rdid=book-U8HbOrn--CkC&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": true,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/District_of_Columbia_Appropriations_for.epub?id=U8HbOrn--CkC&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=U8HbOrn--CkC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "ļ Taxpayers Requesting Assistance Taxpayers Assisted ( Millions ) Staff Years 75 .70 65 60 155 50 30 20 10 6,000 5,000 4,000 3,000 45 421 1 T 1976 40 : 1977 Taxpayer ervice Workload and Resources FY 1976-<b>1984</b> 44.7 ! 38 1978 ."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "B3YwyM6WF3QC",
-            "etag": "TXD3HMbtftU",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/B3YwyM6WF3QC",
-            "volumeInfo": {
-                "title": "Status of Strategic Petroleum Reserve Activities as of September 30, 1984",
-                "subtitle": "Report by the U.S. General Accounting Office",
-                "authors": [
-                    "United States. General Accounting Office"
-                ],
-                "publishedDate": "1984",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "UIUC:30112033987576"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 27,
-                "printType": "BOOK",
-                "categories": [
-                    "Petroleum reserves"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.1.4.0.full.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=B3YwyM6WF3QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=B3YwyM6WF3QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=B3YwyM6WF3QC&pg=PA21&dq=1984&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=B3YwyM6WF3QC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B3YwyM6WF3QC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=B3YwyM6WF3QC&rdid=book-B3YwyM6WF3QC&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": true,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/Status_of_Strategic_Petroleum_Reserve_Ac.epub?id=B3YwyM6WF3QC&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=B3YwyM6WF3QC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "APPENDIX II APPENDIX II Table 8 Summary of Leaching Activities for the Quarter Ending September 30 , <b>1984a</b> Brine disposal Baseline Actual Cumulative oil capacityb Baseline Actual Cumulative oil fill Baseline Actual ( thousands of&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "SJWJ2amhOg4C",
-            "etag": "mw0c1eDQj7w",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/SJWJ2amhOg4C",
-            "volumeInfo": {
-                "title": "Allocation of Resources in the Soviet Union and China--1984",
-                "subtitle": "Hearings Before the Subcommittee on International Trade, Finance, and Security Economics of the Joint Economic Committee, Congress of the United States, Ninety-eighth Congress, Second Session and Ninety-ninth Congress, First Session. Executive sessions, November 21, 1984, and January 15, 1985",
-                "authors": [
-                    "United States. Congress. Joint Economic Committee. Subcommittee on Priorities and Economy in Government",
-                    "United States. Congress. Joint Economic Committee. Subcommittee on International Trade, Finance, and Security Economics"
-                ],
-                "publishedDate": "1985",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "PURD:32754077267262"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 259,
-                "printType": "BOOK",
-                "categories": [
-                    "China"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.2.4.0.full.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=SJWJ2amhOg4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=SJWJ2amhOg4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=SJWJ2amhOg4C&pg=PA43&dq=1984&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=SJWJ2amhOg4C&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SJWJ2amhOg4C"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=SJWJ2amhOg4C&rdid=book-SJWJ2amhOg4C&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": true,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/Allocation_of_Resources_in_the_Soviet_Un.epub?id=SJWJ2amhOg4C&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=SJWJ2amhOg4C&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "USSR : Growth of GNP and Selected Sectors of the Economy 1971-75 Average Annual Percent Change 1976-78 1979-82 1983 <b>1984C</b> GNP a 3.7 3.7 1.6 3.2 2 Agriculture -0.4 5.2 -0.9 6.3 0 Industry 5.9 3.8 2.4 3.4 3.5 Calculated at factor cost . b&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "sjA5EKHS3JoC",
-            "etag": "so7eNJks+L0",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/sjA5EKHS3JoC",
-            "volumeInfo": {
-                "title": "Impact of the Administration's Proposed Fiscal 1984 Budget on Arts, Humanities, and Museums",
-                "subtitle": "Hearings Before the Subcommittee on Postsecondary Education of the Committee on Education and Labor, House of Representatives, Ninety-eighth Congress, First Session, Hearings Held in Washington, D.C., on March 3 and New York, N.Y., March 18, 1983",
-                "authors": [
-                    "United States. Congress. House. Committee on Education and Labor. Subcommittee on Postsecondary Education"
-                ],
-                "publishedDate": "1983",
-                "industryIdentifiers": [
-                    {
-                        "type": "OTHER",
-                        "identifier": "STANFORD:36105045244899"
-                    }
-                ],
-                "readingModes": {
-                    "text": false,
-                    "image": true
-                },
-                "pageCount": 242,
-                "printType": "BOOK",
-                "categories": [
-                    "Federal aid to museums"
-                ],
-                "maturityRating": "NOT_MATURE",
-                "allowAnonLogging": false,
-                "contentVersion": "0.5.10.0.full.1",
-                "panelizationSummary": {
-                    "containsEpubBubbles": false,
-                    "containsImageBubbles": false
-                },
-                "imageLinks": {
-                    "smallThumbnail": "http://books.google.com/books/content?id=sjA5EKHS3JoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                    "thumbnail": "http://books.google.com/books/content?id=sjA5EKHS3JoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-                },
-                "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=sjA5EKHS3JoC&pg=RA1-PA13&dq=1984&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
-                "infoLink": "https://play.google.com/store/books/details?id=sjA5EKHS3JoC&source=gbs_api",
-                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sjA5EKHS3JoC"
-            },
-            "saleInfo": {
-                "country": "TR",
-                "saleability": "FREE",
-                "isEbook": true,
-                "buyLink": "https://play.google.com/store/books/details?id=sjA5EKHS3JoC&rdid=book-sjA5EKHS3JoC&rdot=1&source=gbs_api"
-            },
-            "accessInfo": {
-                "country": "TR",
-                "viewability": "ALL_PAGES",
-                "embeddable": true,
-                "publicDomain": true,
-                "textToSpeechPermission": "ALLOWED",
-                "epub": {
-                    "isAvailable": false,
-                    "downloadLink": "http://books.google.com.tr/books/download/Impact_of_the_Administration_s_Proposed.epub?id=sjA5EKHS3JoC&hl=&output=epub&source=gbs_api"
-                },
-                "pdf": {
-                    "isAvailable": false
-                },
-                "webReaderLink": "http://play.google.com/books/reader?id=sjA5EKHS3JoC&hl=&as_pt=BOOKS&source=gbs_api",
-                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-                "quoteSharingAllowed": false
-            },
-            "searchInfo": {
-                "textSnippet": "( FEDERALLY APPROPRIATED FUNDS ONLY ) ( 1 000 * 8 ) FY1982 FY1983 <b>FY1984</b> BUDGET ACTIVITY APPL GRANTS AMOUNT APPL GRANTS AMOUNT APPL . GRANTS AMOUNT DANCE 960 414 8,458 882 392 9,039 915 290 6.500 DESIGN ARTS 914 270 4,638 a / 1,205 152&nbsp;..."
-            }
-        },
-        {
-            "kind": "books#volume",
-            "id": "J2hqzgEACAAJ",
-            "etag": "lSgEobuJutw",
-            "selfLink": "https://www.googleapis.com/books/v1/volumes/J2hqzgEACAAJ",
-            "volumeInfo": {
-                "title": "1984",
+                "title": "The Complete Novels of George Orwell",
+                "subtitle": "Animal Farm, Burmese Days, A Clergyman's Daughter, Coming Up for Air, Keep the Aspidistra Flying, Nineteen Eighty-Four",
                 "authors": [
                     "George Orwell"
                 ],
-                "publishedDate": "2021-03",
+                "publisher": "Penguin UK",
+                "publishedDate": "2001-02-22",
+                "description": "'The greatest writer of the twentieth century' Observer George Orwell's best-known novels, Animal Farm, describing a revolution that goes horribly wrong, and Nineteen Eighty-Four, portraying a world where human freedom has been crushed, are two of the most famous, well-quoted and influential political satires ever written. The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban living in Coming Up for Air and surviving on the streets in A Clergyman's Daughter. All the novels brought together here display Orwell's humour, his understanding of human nature and his great compassion.",
                 "industryIdentifiers": [
                     {
-                        "type": "ISBN_10",
-                        "identifier": "6254412020"
+                        "type": "ISBN_13",
+                        "identifier": "9780141911656"
                     },
                     {
+                        "type": "ISBN_10",
+                        "identifier": "0141911654"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 1514,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.20.17.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=zyMluFEwA7AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zyMluFEwA7AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=zyMluFEwA7AC&printsec=frontcover&dq=George+Orwell&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=zyMluFEwA7AC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zyMluFEwA7AC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 670.41,
+                    "currencyCode": "TRY"
+                },
+                "retailPrice": {
+                    "amount": 670.41,
+                    "currencyCode": "TRY"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=zyMluFEwA7AC&rdid=book-zyMluFEwA7AC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 670410000,
+                            "currencyCode": "TRY"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 670410000,
+                            "currencyCode": "TRY"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.tr/books/download/The_Complete_Novels_of_George_Orwell-sample-epub.acsm?id=zyMluFEwA7AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zyMluFEwA7AC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "PqGMFPCiBEsC",
+            "etag": "gL4oNgypxWM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/PqGMFPCiBEsC",
+            "volumeInfo": {
+                "title": "Essays",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "Penguin UK",
+                "publishedDate": "2000-06-29",
+                "description": "These essays, reviews and articles illuminate the life and work of one of the most individual writers of this century - a man who created a unique literary manner from the process of thinking aloud and who elevated political writing to an art.",
+                "industryIdentifiers": [
+                    {
                         "type": "ISBN_13",
-                        "identifier": "9786254412028"
+                        "identifier": "9780141183060"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0141183063"
                     }
                 ],
                 "readingModes": {
                     "text": false,
                     "image": false
                 },
-                "pageCount": 448,
+                "pageCount": 601,
                 "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.4.4.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=PqGMFPCiBEsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=PqGMFPCiBEsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=PqGMFPCiBEsC&dq=George+Orwell&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=PqGMFPCiBEsC&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Essays.html?hl=&id=PqGMFPCiBEsC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=PqGMFPCiBEsC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "These essays, reviews and articles illuminate the life and work of one of the most individual writers of this century - a man who created a unique literary manner from the process of thinking aloud and who elevated political writing to an ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "y-8DoQEACAAJ",
+            "etag": "Ej8xe047jys",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/y-8DoQEACAAJ",
+            "volumeInfo": {
+                "title": "1984",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publishedDate": "2014-03-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "9750718534"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9789750718533"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 352,
+                "printType": "BOOK",
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=y-8DoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=y-8DoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "tr",
+                "previewLink": "http://books.google.com.tr/books?id=y-8DoQEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=y-8DoQEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=y-8DoQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=y-8DoQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Ij49NQAACAAJ",
+            "etag": "F8uiuXuHSs8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ij49NQAACAAJ",
+            "volumeInfo": {
+                "title": "George Orwell",
+                "authors": [
+                    "Gordon Bowker"
+                ],
+                "publisher": "Little Brown Uk",
+                "publishedDate": "2004",
+                "description": "Traces the acclaimed writer's childhood, Eton education, experiences as a Burma policeman, deliberate entry into poverty, witness to the Spanish Civil War, complex relationships, and contributions to literature.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0349115516"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780349115511"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 495,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Ij49NQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Ij49NQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=Ij49NQAACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=Ij49NQAACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=Ij49NQAACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Ij49NQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&#39;Adds enormously to our understanding of the man&#39; Evening Standard George Orwell was one of the greatest writers England produced in the last century."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "UYmMEAAAQBAJ",
+            "etag": "8lMJ+sIfkCs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/UYmMEAAAQBAJ",
+            "volumeInfo": {
+                "title": "Modern Classics the Complete Novels of George Orwell",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "National Geographic Books",
+                "publishedDate": "2009-07-28",
+                "description": "George Orwell's best-known novels, Animal Farm, describing a revolution that goes horribly wrong, and Nineteen Eighty-Four, portraying a world where human freedom has been crushed, are two of the most famous, well-quoted and influential political satires ever written. The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban living in Coming Up for Air and surviving on the streets in A Clergyman's Daughter. All the novels brought together here display Orwell's humour, his understanding of human nature and his great compassion.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780141190396"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0141190396"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
                 "maturityRating": "NOT_MATURE",
                 "allowAnonLogging": false,
                 "contentVersion": "preview-1.0.0",
@@ -585,10 +483,14 @@
                     "containsEpubBubbles": false,
                     "containsImageBubbles": false
                 },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=UYmMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=UYmMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
                 "language": "en",
-                "previewLink": "http://books.google.com.tr/books?id=J2hqzgEACAAJ&dq=1984&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
-                "infoLink": "http://books.google.com.tr/books?id=J2hqzgEACAAJ&dq=1984&hl=&as_pt=BOOKS&source=gbs_api",
-                "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=J2hqzgEACAAJ"
+                "previewLink": "http://books.google.com.tr/books?id=UYmMEAAAQBAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=UYmMEAAAQBAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Classics_the_Complete_Novels_of_G.html?hl=&id=UYmMEAAAQBAJ"
             },
             "saleInfo": {
                 "country": "TR",
@@ -607,9 +509,216 @@
                 "pdf": {
                     "isAvailable": false
                 },
-                "webReaderLink": "http://play.google.com/books/reader?id=J2hqzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "webReaderLink": "http://play.google.com/books/reader?id=UYmMEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
                 "accessViewStatus": "NONE",
                 "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "zaxG_3ivhVAC",
+            "etag": "5VH+ZJ/sEQU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/zaxG_3ivhVAC",
+            "volumeInfo": {
+                "title": "George Orwell: In front of your nose, 1946-1950",
+                "authors": [
+                    "George Orwell"
+                ],
+                "publisher": "David R. Godine Publisher",
+                "publishedDate": "2000",
+                "description": "George Orwell is a major figure in twentieth-century literature. The author of Down and Out in Paris and London, Nineteen Eighty-four, and Animal Farm, he published ten books and two collections of essays during his lifetime -- but in terms of actual words, produced much more than seems possible for someone who died at the age of forty-six and was often struggling against poverty and ill health. His essays, letters, and journalism are among the most memorable, lucid, and intelligent ever written, the work of a master craftsman and a brilliant mind. Taken as a whole they form an essential collection, and read in toto and sequentially, they provide a remarkably literary self-portrait of an engaged, and consistently engaging, writer.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1567921361"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781567921366"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 578,
+                "printType": "BOOK",
+                "categories": [
+                    "Biography & Autobiography"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "3.2.3.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=zaxG_3ivhVAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=zaxG_3ivhVAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=zaxG_3ivhVAC&dq=George+Orwell&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=zaxG_3ivhVAC&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell_In_front_of_your_nose_1946.html?hl=&id=zaxG_3ivhVAC"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=zaxG_3ivhVAC&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "His essays, letters, and journalism are among the most memorable, lucid, and intelligent ever written, the work of a master craftsman and a brilliant mind."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "WjAeAQAAIAAJ",
+            "etag": "KMuswg5MH2Q",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/WjAeAQAAIAAJ",
+            "volumeInfo": {
+                "title": "George Orwell",
+                "authors": [
+                    "Courtney T. Wemyss",
+                    "Alexej Ugrinsky"
+                ],
+                "publisher": "Praeger",
+                "publishedDate": "1987",
+                "description": "This collection of essays addresses a number of facets of George Orwell, examining both Orwell the man of letters and Orwell the political man. In his preface, Courtney Wemyss asserts that Orwell may not receive the recognition he is due because at present he is appreciated for the wrong reasons. The author of other fine novels (such as Burmese Days and Coming up for Air), Orwell should also be recognized for his literary criticism, book reviews, and documentaries, which depict the England of his times in the manner of Samuel Pepys. The Less-recognized--and equally important--facets of George Orwell's works and impact on English culture presented in this collection will prove informative to Orwell specialists and to scholars of twentieth-century English literature and politics.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "STANFORD:36105038371907"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 224,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.3.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=WjAeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=WjAeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.tr/books?id=WjAeAQAAIAAJ&q=George+Orwell&dq=George+Orwell&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=WjAeAQAAIAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=WjAeAQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=WjAeAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This collection of essays addresses a number of facets of George Orwell, examining both Orwell the man of letters and Orwell the political man."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "SEzFsgEACAAJ",
+            "etag": "o9nNdCNjGnI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/SEzFsgEACAAJ",
+            "volumeInfo": {
+                "title": "George Orwell",
+                "authors": [
+                    "Stéphane Maltère"
+                ],
+                "publisher": "Editions Gallimard",
+                "publishedDate": "2015-06-05",
+                "description": "«A une époque de supercherie universelle, dire la vérité est un acte révolutionnaire.» George Orwell (1903 -1950), de son vrai nom Eric Arthur Blair, est l'auteur d'une oeuvre très marquée par ses engagements politiques. Après avoir lutté contre l'Empire britannique en Birmanie, pour la justice sociale aux côtés des classes laborieuses de Londres et de Paris, puis participé à la guerre d'Espagne dans les rangs du P O U M, il se consacre à une oeuvre littéraire écrite, «directement ou indirectement, contre le totalitarisme et pour le socialisme démocratique». Témoin lucide de son temps, auteur notamment de La Ferme des animaux et de 1984, il meurt à quarante-six ans, et demande dans son testament qu'aucune biographie ne retrace sa vie.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "2070455386"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9782070455386"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 329,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "fr",
+                "previewLink": "http://books.google.com.tr/books?id=SEzFsgEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.tr/books?id=SEzFsgEACAAJ&dq=George+Orwell&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/George_Orwell.html?hl=&id=SEzFsgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "TR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "TR",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=SEzFsgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Cette biographie de l&#39;écrivain britannique s&#39;attache à mettre en avant ses engagements politiques, de sa lutte contre l&#39;empire britannique en Birmanie à sa participation à la guerre d&#39;Espagne, en passant par la défense des classes ..."
             }
         }
     ]
